@@ -20,8 +20,9 @@ def fn(filepath1, filepath2, filepath3, outputfilepath):
     tables = ["Continent", "Country", "SeaLevel", "GHGEmission", "Temperature", 
               "Industry", "Emitted", "Produces", "TempChange"]
     
-    industry = ghg_data['Industry'].tolist()
-    
+    industry = list(ghg_data['Industry'])
+
+
     with open(outputfilepath, 'w') as outputfile:
         for table in tables:
             outputfile.write(f"drop table {table} cascade constraints;\n")
@@ -33,7 +34,7 @@ def fn(filepath1, filepath2, filepath3, outputfilepath):
                          "foreign key (continentName) references Continent\n);\n")
         outputfile.write(f"\ncreate table Industry (\n\tindustryName varchar2 (50) primary key\n\t);\n")
         for values in industry:
-            outputfile.write(f"insert into Industry values ({values});\n")
+            outputfile.write(f"insert into Industry values ('{values}');\n")
 
     # create statements (posted on google doc)
     # insert_emitted = f"INSERT INTO Emitted (Country, CO2_concentration) VALUES {greenhouse_gas_data}"
