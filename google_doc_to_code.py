@@ -6,12 +6,13 @@
 import pandas as pd
 
 
-def fn(filepath1, filepath2, filepath3, outputfilepath):
+def fn(filepath1, filepath2, filepath3, filepath4, outputfilepath):
 
     # load data 
     temp_data = pd.read_csv(filepath1)
     ghg_data = pd.read_csv(filepath2)
     sealevel_data = pd.read_csv(filepath3)
+    country_continent_map = pd.read_csv(filepath4)
 
     # data wrangling
 
@@ -31,7 +32,7 @@ def fn(filepath1, filepath2, filepath3, outputfilepath):
                                         'CTS Name', 'CTS Full Descriptor'])
     temp_data = pd.melt(temp_data, id_vars=['Country', 'ISO3', 'Unit'], var_name='Year', value_name='Temperature')
     temp_data['Temperature'] = round(temp_data['Temperature'], 2)
-
+    temp_data = pd.merge(temp_data, country_continent_map, on = 'Country')
 
     ## for sealevel data
     sealevel_data['GMSL_noGIA'] = round(sealevel_data['GMSL_noGIA'], 2)
@@ -41,6 +42,8 @@ def fn(filepath1, filepath2, filepath3, outputfilepath):
               "Industry", "Emitted", "Produces", "TempChange"]
     
     continent= [(ghg_data.at[i,'Country'], ghg_data.at[i, 'ISO3']) for i in range(len(ghg_data))]
+    country = [(temp_data.at[i, 'Country'], temp_data.at[i, 'Continent'],
+                temp_data.at[i, 'ISO3']) for i in range(len(temp_data))]
     sealevel = [(sealevel_data.at[i, 'Year'], "World", "mm", sealevel_data.at[i, 'GMSL_noGIA'])
                 for i in range(len(sealevel_data))]
     ghg_emission = [(ghg_data.at[i, 'Year'], ghg_data.at[i, 'Gas Type'], ghg_data.at[i, 'Unit'])
@@ -106,6 +109,8 @@ def fn(filepath1, filepath2, filepath3, outputfilepath):
         
         for values in continent:
             outputfile.write(f"insert into Continent values ('{values[0]}', '{values[1]}');\n")
+        for values in country:
+            outputfile.write(f"insert into Country values ('{values[0]}', '{values[1]}', '{values[2]}');\n")
         for values in sealevel:
             outputfile.write(f"insert into SeaLevel values ({values[0]}, '{values[1]}', '{values[2]}',{values[3]});\n")
         for values in ghg_emission:
@@ -125,8 +130,9 @@ temp = "Global_surface_temperature.csv"
 ghg = "quarterly.csv"
 sealevel = "sealevel.csv"
 test_output = "test_output.sql"
+cont_country = "country_continet_mapping.csv"
 
+## FIX TYPOS
 
-
-fn(temp, ghg, sealevel, test_output)
+fn(temp, ghg, sealevel, cont_country, test_output)
 
