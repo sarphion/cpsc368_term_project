@@ -49,11 +49,16 @@ temp_data, ghg_data, sealevel_data = create_data(temp, ghg, sealevel, cont_count
 
 def create_sql(temp_data, ghg_data, sealevel_data, outputfilepath):
     # create input lists
+    ghg_data.rename(columns = {'Year': 'year'}, inplace = True)
+    ghg = ghg_data[['YearNoQ', 'year']]
+    temp_ghg = pd.merge(temp_data, ghg, left_on='Year', right_on='YearNoQ')
+    temp_ghg = temp_ghg.drop_duplicates().reset_index(drop=True)
+
     tables = ["Continent", "Country", "SeaLevel", "GHGEmission", "Temperature", 
               "Industry", "Emitted", "Produces", "TempChange"]
     
-    produces_df = pd.DataFrame(ghg_data.groupby(['Year', 'Industry'], as_index= False)['Emissions'].sum())
-    emmitted_df = pd.DataFrame(ghg_data.groupby(['Country', 'Year'], as_index = False)['Emissions'].sum())
+    produces_df = pd.DataFrame(ghg_data.groupby(['year', 'Industry'], as_index= False)['Emissions'].sum())
+    emmitted_df = pd.DataFrame(ghg_data.groupby(['Country', 'year'], as_index = False)['Emissions'].sum())
 
     continent= [(ghg_data.at[i,'Country'], ghg_data.at[i, 'ISO3']) for i in range(len(ghg_data))]
     continent = list(set(continent))
@@ -62,31 +67,23 @@ def create_sql(temp_data, ghg_data, sealevel_data, outputfilepath):
     country = list(set(country))
     sealevel = [(sealevel_data.at[i, 'Year'], "World", "mm", sealevel_data.at[i, 'GMSL_noGIA'])
                 for i in range(len(sealevel_data))]
-    ghg_emission = [(ghg_data.at[i, 'Year'], ghg_data.at[i, 'Unit'])
+    ghg_emission = [(ghg_data.at[i, 'year'], ghg_data.at[i, 'Unit'])
                     for i in range(len(ghg_data))]
     ghg_emission = list(set(ghg_emission))
-    temperature = [(temp_data.at[i, 'Year'],(ghg_data.at[i, 'Year'] if temp_data.at[i, 'Year'] == 
-                                             ghg_data.at[i, 'YearNoQ']
-                                             else 0), temp_data.at[i, 'Unit'])
-                                             for i in range(len(temp_data))]
+    temperature = [(temp_ghg.at[i, 'Year'], temp_ghg.at[i, 'year'],
+                      temp_ghg.at[i, 'Unit']) for i in range(len(temp_ghg))]
     temperature = list(set(temperature))
-    temperature = [i for i in temperature if i[1] != 0]
-
     industry = list(ghg_data['Industry'])
     industry = list(set(industry))
     
-    emitted = [(emmitted_df.at[i, 'Country'], emmitted_df.at[i, 'Year'], emmitted_df.at[i, 'Emissions'])
+    emitted = [(emmitted_df.at[i, 'Country'], emmitted_df.at[i, 'year'], emmitted_df.at[i, 'Emissions'])
                for i in range(len(emmitted_df))]
-    produces = [(produces_df.at[i, 'Year'], produces_df.at[i, 'Industry'], produces_df.at[i, 'Emissions'])
+    produces = [(produces_df.at[i, 'year'], produces_df.at[i, 'Industry'], produces_df.at[i, 'Emissions'])
                 for i in range(len(produces_df))]
-    tempchange = [(temp_data.at[i, 'Country'], temp_data.at[i, 'Year'],
-                   (ghg_data.at[i, 'Year'] if temp_data.at[i, 'Year'] == 
-                                             ghg_data.at[i, 'YearNoQ']
-                                             else 0),  temp_data.at[i, 'Temperature'])
-                                             for i in range(len(temp_data))]
-    tempchange = [i for i in tempchange if i[2] != 0]
+    tempchange = [(temp_ghg.at[i, 'Country'],temp_ghg.at[i, 'Year'], temp_ghg.at[i, 'year'],  temp_ghg.at[i, 'Temperature'])
+                                             for i in range(len(temp_ghg))]
 
-    # write to .sql file
+    # # write to .sql file
     with open(outputfilepath, 'w') as outputfile:
         for table in tables:
             outputfile.write(f"drop table {table} cascade constraints;\n")
@@ -147,6 +144,7 @@ def create_sql(temp_data, ghg_data, sealevel_data, outputfilepath):
             outputfile.write(f"insert into Produces values ('{values[0]}', '{values[1]}', {values[2]});\n")
         for values in tempchange:
             outputfile.write(f"insert into TempChange values ('{values[0]}', {values[1]}, '{values[2]}', {values[3]});\n")
+    
 
 create_sql(temp_data, ghg_data, sealevel_data, test_output)
 
