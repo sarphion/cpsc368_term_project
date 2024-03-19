@@ -1,14 +1,16 @@
 SQL> select * from Industry;
-Agriculture, Forestry and Fishing
-Construction
-Electricity, Gas, Steam and Air Conditioning Supply
-Manufacturing
-Mining
-Other Services Industries
-Total Households
-Total Industry and Households
-Transportation and Storage
-Water supply; sewerage, waste management and remediation activities
+
+"INDUSTRYNAME"
+"Agriculture, Forestry and Fishing"
+"Construction"
+"Electricity, Gas, Steam and Air Conditioning Supply"
+"Manufacturing"
+"Mining"
+"Other Services Industries"
+"Total Households"
+"Total Industry and Households"
+"Transportation and Storage"
+"Water supply; sewerage, waste management and remediation activities"
 
 10 rows selected.
 
