@@ -1,0 +1,33 @@
+SQL> select * from Continent;
+
+CONTINENTNAME                                     ,CODE
+--------------------------------------------------,----------
+Asia                                              ,ASIATMP
+Northern Africa                                   ,NANA9
+Southern Europe                                   ,NASE
+G20                                               ,NA120
+G7                                                ,NA119
+Western Asia                                      ,NAWA
+Eastern Europe                                    ,NAEE
+South-eastern Asia                                ,NASEA
+Western Europe                                    ,NAWE
+Southern Asia                                     ,NASA
+Other Oceania sub-regions                         ,NAOOSR
+Africa                                            ,NA605
+Oceania                                           ,OCETMP
+Americas                                          ,AMETMP
+Australia and New Zealand                         ,NAANZ
+Northern America                                  ,NA225
+Eastern Asia                                      ,NA510
+Emerging and Developing Economies                 ,EMDETMP
+Central Asia                                      ,NACA
+Northern Europe                                   ,NANE
+Advanced Economies                                ,AETMP
+Europe                                            ,EURTMP
+Sub-Saharan Africa                                ,SSA
+World                                             ,WLD
+Latin America and the Caribbean                   ,LACTMP
+
+25 rows selected.
+
+SQL> spool off

@@ -1,0 +1,180 @@
+SQL> select * from Country;
+
+COUNTRYNAME                                       ,CONTINENTNAME                                     ,ISO
+--------------------------------------------------,--------------------------------------------------,---
+Seychelles                                        ,Africa                                            ,SYC
+Zimbabwe                                          ,Africa                                            ,ZWE
+Mexico                                            ,Northern America                                  ,MEX
+Switzerland                                       ,Europe                                            ,CHE
+Barbados                                          ,Northern America                                  ,BRB
+Vanuatu                                           ,Oceania                                           ,VUT
+Isle of Man                                       ,Europe                                            ,IMN
+Hungary                                           ,Eastern Europe                                    ,HUN
+Gibraltar                                         ,Europe                                            ,GIB
+Solomon Islands                                   ,Oceania                                           ,SLB
+Russian Federation                                ,Asia                                              ,RUS
+Algeria                                           ,Northern Africa                                   ,DZA
+Guadeloupe                                        ,Northern America                                  ,GLP
+Ukraine                                           ,Eastern Europe                                    ,UKR
+United States Virgin Islands                      ,Northern America                                  ,VIR
+Saint Helena                                      ,Africa                                            ,SHN
+Georgia                                           ,Western Asia                                      ,GEO
+Guatemala                                         ,Northern America                                  ,GTM
+Myanmar                                           ,Eastern Asia                                      ,MMR
+Martinique                                        ,Northern America                                  ,MTQ
+Holy See                                          ,Europe                                            ,VAT
+Senegal                                           ,Africa                                            ,SEN
+Botswana                                          ,Africa                                            ,BWA
+Qatar                                             ,Western Asia                                      ,QAT
+Iceland                                           ,Europe                                            ,ISL
+Western Sahara                                    ,Northern Africa                                   ,ESH
+Norway                                            ,Northern Europe                                   ,NOR
+Nepal                                             ,Southern Asia                                     ,NPL
+Lithuania                                         ,Northern Europe                                   ,LTU
+Montserrat                                        ,Northern America                                  ,MSR
+Wallis and Futuna Islands                         ,Oceania                                           ,WLF
+Gabon                                             ,Africa                                            ,GAB
+Lao Peoples Dem. Rep.                             ,Eastern Asia                                      ,LAO
+Belgium                                           ,Western Europe                                    ,BEL
+Ecuador                                           ,Latin America and the Caribbean                   ,ECU
+Guinea-Bissau                                     ,Africa                                            ,GNB
+Kenya                                             ,Africa                                            ,KEN
+Kuwait                                            ,Western Asia                                      ,KWT
+Sierra Leone                                      ,Africa                                            ,SLE
+Sudan                                             ,Northern Africa                                   ,SDN
+Cabo Verde                                        ,Africa                                            ,CPV
+Peru                                              ,Latin America and the Caribbean                   ,PER
+Cayman Islands                                    ,Northern America                                  ,CYM
+Denmark                                           ,Northern Europe                                   ,DNK
+Colombia                                          ,Latin America and the Caribbean                   ,COL
+Turkmenistan                                      ,Central Asia                                      ,TKM
+Jamaica                                           ,Northern America                                  ,JAM
+India                                             ,Southern Asia                                     ,IND
+Portugal                                          ,Europe                                            ,PRT
+World                                             ,World                                             ,WLD
+Brazil                                            ,Latin America and the Caribbean                   ,BRA
+Cyprus                                            ,Western Asia                                      ,CYP
+French Polynesia                                  ,Oceania                                           ,PYF
+Morocco                                           ,Northern Africa                                   ,MAR
+Guyana                                            ,Latin America and the Caribbean                   ,GUY
+Honduras                                          ,Northern America                                  ,HND
+Albania                                           ,Southern Europe                                   ,ALB
+New Caledonia                                     ,Eastern Asia                                      ,NCL
+Nigeria                                           ,Africa                                            ,NGA
+United States                                     ,Northern America                                  ,USA
+New Zealand                                       ,Australia and New Zealand                         ,NZL
+St. Vincent and the Grenadines                    ,Northern America                                  ,VCT
+United Kingdom                                    ,Western Europe                                    ,GBR
+British Virgin Islands                            ,Northern America                                  ,VGB
+Niger                                             ,Africa                                            ,NER
+Tuvalu                                            ,Oceania                                           ,TUV
+Mauritius                                         ,Africa                                            ,MUS
+Argentina                                         ,Latin America and the Caribbean                   ,ARG
+West Bank and Gaza                                ,Western Asia                                      ,PSE
+Rwanda                                            ,Africa                                            ,RWA
+Bolivia                                           ,Latin America and the Caribbean                   ,BOL
+Singapore                                         ,Eastern Asia                                      ,SGP
+Maldives                                          ,Southern Asia                                     ,MDV
+Faroe Islands                                     ,Europe                                            ,FRO
+Malta                                             ,Europe                                            ,MLT
+Iraq                                              ,Western Asia                                      ,IRQ
+Bosnia and Herzegovina                            ,Europe                                            ,BIH
+Latvia                                            ,Northern Europe                                   ,LVA
+Jordan                                            ,Western Asia                                      ,JOR
+Australia                                         ,Australia and New Zealand                         ,AUS
+Pitcairn Islands                                  ,Oceania                                           ,PCN
+Haiti                                             ,Northern America                                  ,HTI
+Canada                                            ,Northern America                                  ,CAN
+Tokelau                                           ,Oceania                                           ,TKL
+Brunei Darussalam                                 ,Eastern Asia                                      ,BRN
+Mayotte                                           ,Africa                                            ,MYT
+Finland                                           ,Northern Europe                                   ,FIN
+Anguilla                                          ,Northern America                                  ,AIA
+Benin                                             ,Africa                                            ,BEN
+Malawi                                            ,Africa                                            ,MWI
+United Arab Emirates                              ,Western Asia                                      ,ARE
+Bangladesh                                        ,Southern Asia                                     ,BGD
+Burkina Faso                                      ,Africa                                            ,BFA
+Papua New Guinea                                  ,Eastern Asia                                      ,PNG
+Cameroon                                          ,Africa                                            ,CMR
+Chile                                             ,Latin America and the Caribbean                   ,CHL
+Liechtenstein                                     ,Europe                                            ,LIE
+Nicaragua                                         ,Northern America                                  ,NIC
+Taiwan Province of China                          ,Eastern Asia                                      ,TWN
+Ghana                                             ,Africa                                            ,GHA
+Chad                                              ,Africa                                            ,TCD
+Guinea                                            ,Africa                                            ,GIN
+Israel                                            ,Western Asia                                      ,ISR
+Libya                                             ,Northern Africa                                   ,LBY
+Togo                                              ,Africa                                            ,TGO
+Romania                                           ,Europe                                            ,ROU
+Burundi                                           ,Africa                                            ,BDI
+Zambia                                            ,Africa                                            ,ZMB
+Costa Rica                                        ,Northern America                                  ,CRI
+Dominica                                          ,Northern America                                  ,DMA
+Cook Islands                                      ,Oceania                                           ,COK
+Kiribati                                          ,Oceania                                           ,KIR
+South Africa                                      ,Africa                                            ,ZAF
+Turks and Caicos Islands                          ,Northern America                                  ,TCA
+Saint Pierre and Miquelon                         ,Northern America                                  ,SPM
+France                                            ,Western Europe                                    ,FRA
+Niue                                              ,Oceania                                           ,NIU
+Paraguay                                          ,Latin America and the Caribbean                   ,PRY
+Austria                                           ,Europe                                            ,AUT
+Falkland Islands (Malvinas)                       ,Latin America and the Caribbean                   ,FLK
+Djibouti                                          ,Africa                                            ,DJI
+Germany                                           ,Europe                                            ,DEU
+Oman                                              ,Western Asia                                      ,OMN
+Lebanon                                           ,Western Asia                                      ,LBN
+Liberia                                           ,Africa                                            ,LBR
+St. Lucia                                         ,Northern America                                  ,LCA
+Uganda                                            ,Africa                                            ,UGA
+Spain                                             ,Europe                                            ,ESP
+St. Kitts and Nevis                               ,Northern America                                  ,KNA
+Bulgaria                                          ,Eastern Europe                                    ,BGR
+Sweden                                            ,Northern Europe                                   ,SWE
+Greenland                                         ,Northern America                                  ,GRL
+Malaysia                                          ,Eastern Asia                                      ,MYS
+Syrian Arab Rep.                                  ,Western Asia                                      ,SYR
+Central African Rep.                              ,Africa                                            ,CAF
+Norfolk Island                                    ,Oceania                                           ,NFK
+Tonga                                             ,Eastern Asia                                      ,TON
+Montenegro                                        ,Europe                                            ,MNE
+Kyrgyz Rep.                                       ,Central Asia                                      ,KGZ
+Philippines                                       ,Eastern Asia                                      ,PHL
+Mali                                              ,Africa                                            ,MLI
+Japan                                             ,Eastern Asia                                      ,JPN
+Pakistan                                          ,Southern Asia                                     ,PAK
+Panama                                            ,Northern America                                  ,PAN
+Grenada                                           ,Northern America                                  ,GRD
+Namibia                                           ,Africa                                            ,NAM
+Cambodia                                          ,Eastern Asia                                      ,KHM
+Uruguay                                           ,Latin America and the Caribbean                   ,URY
+Suriname                                          ,Latin America and the Caribbean                   ,SUR
+Trinidad and Tobago                               ,Northern America                                  ,TTO
+Indonesia                                         ,Eastern Asia                                      ,IDN
+Puerto Rico                                       ,Northern America                                  ,PRI
+Italy                                             ,Southern Europe                                   ,ITA
+Luxembourg                                        ,Western Europe                                    ,LUX
+Monaco                                            ,Western Europe                                    ,MCO
+Somalia                                           ,Africa                                            ,SOM
+Mongolia                                          ,Eastern Asia                                      ,MNG
+Dominican Rep.                                    ,Northern America                                  ,DOM
+El Salvador                                       ,Northern America                                  ,SLV
+Vietnam                                           ,Eastern Asia                                      ,VNM
+Greece                                            ,Southern Europe                                   ,GRC
+Belize                                            ,Northern America                                  ,BLZ
+Saudi Arabia                                      ,Western Asia                                      ,SAU
+Angola                                            ,Africa                                            ,AGO
+Cuba                                              ,Northern America                                  ,CUB
+Tunisia                                           ,Northern Africa                                   ,TUN
+Bhutan                                            ,Southern Asia                                     ,BTN
+Sri Lanka                                         ,Southern Asia                                     ,LKA
+Samoa                                             ,Oceania                                           ,WSM
+American Samoa                                    ,Oceania                                           ,ASM
+Ireland                                           ,Western Europe                                    ,IRL
+Czech Rep.                                        ,Eastern Europe                                    ,CZE
+
+172 rows selected.
+
+SQL> spool off
