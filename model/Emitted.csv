@@ -1,0 +1,1351 @@
+continentName,ghgYear,co2concentration
+Advanced Economies                                ,2010Q1,        31192.12
+Advanced Economies                                ,2010Q2,        29745.61
+Advanced Economies                                ,2010Q3,        30135.84
+Advanced Economies                                ,2010Q4,         31396.5
+Advanced Economies                                ,2011Q1,        31369.16
+Advanced Economies                                ,2011Q2,        29443.39
+Advanced Economies                                ,2011Q3,        29845.19
+Advanced Economies                                ,2011Q4,        29913.65
+Advanced Economies                                ,2012Q1,        30649.06
+Advanced Economies                                ,2012Q2,        28785.03
+Advanced Economies                                ,2012Q3,        29215.34
+Advanced Economies                                ,2012Q4,        30045.62
+Advanced Economies                                ,2013Q1,        30954.69
+Advanced Economies                                ,2013Q2,        29192.95
+Advanced Economies                                ,2013Q3,         29187.4
+Advanced Economies                                ,2013Q4,        30305.96
+Advanced Economies                                ,2014Q1,        30898.92
+Advanced Economies                                ,2014Q2,        28629.53
+Advanced Economies                                ,2014Q3,        28783.19
+Advanced Economies                                ,2014Q4,         29953.7
+Advanced Economies                                ,2015Q1,        30890.63
+Advanced Economies                                ,2015Q2,        28711.03
+Advanced Economies                                ,2015Q3,        28990.62
+Advanced Economies                                ,2015Q4,        28689.67
+Advanced Economies                                ,2016Q1,        28207.36
+Advanced Economies                                ,2016Q2,         26630.4
+Advanced Economies                                ,2016Q3,        27174.94
+Advanced Economies                                ,2016Q4,        27964.22
+Advanced Economies                                ,2017Q1,        28131.26
+Advanced Economies                                ,2017Q2,        26687.15
+Advanced Economies                                ,2017Q3,        26939.37
+Advanced Economies                                ,2017Q4,        28013.53
+Advanced Economies                                ,2018Q1,        28650.96
+Advanced Economies                                ,2018Q2,        26697.12
+Advanced Economies                                ,2018Q3,        26967.64
+Advanced Economies                                ,2018Q4,        28176.85
+Advanced Economies                                ,2019Q1,        28275.38
+Advanced Economies                                ,2019Q2,        26297.47
+Advanced Economies                                ,2019Q3,        26404.94
+Advanced Economies                                ,2019Q4,        26982.96
+Advanced Economies                                ,2020Q1,        26327.58
+Advanced Economies                                ,2020Q2,        22190.12
+Advanced Economies                                ,2020Q3,        24379.07
+Advanced Economies                                ,2020Q4,        25326.18
+Advanced Economies                                ,2021Q1,        26032.31
+Advanced Economies                                ,2021Q2,        24981.51
+Advanced Economies                                ,2021Q3,        25164.51
+Advanced Economies                                ,2021Q4,        25998.42
+Advanced Economies                                ,2022Q1,        26754.71
+Advanced Economies                                ,2022Q2,        25180.99
+Advanced Economies                                ,2022Q3,        25380.14
+Advanced Economies                                ,2022Q4,         25831.5
+Advanced Economies                                ,2023Q1,         25862.1
+Advanced Economies                                ,2023Q2,        24364.43
+Africa                                            ,2010Q1,         5592.61
+Africa                                            ,2010Q2,         5767.27
+Africa                                            ,2010Q3,         5854.74
+Africa                                            ,2010Q4,         5759.03
+Africa                                            ,2011Q1,         5745.29
+Africa                                            ,2011Q2,          5789.4
+Africa                                            ,2011Q3,         5757.53
+Africa                                            ,2011Q4,         5730.21
+Africa                                            ,2012Q1,         5908.34
+Africa                                            ,2012Q2,          6033.2
+Africa                                            ,2012Q3,         6049.54
+Africa                                            ,2012Q4,         6172.43
+Africa                                            ,2013Q1,         6080.43
+Africa                                            ,2013Q2,         6165.55
+Africa                                            ,2013Q3,         6122.06
+Africa                                            ,2013Q4,         6153.84
+Africa                                            ,2014Q1,         6158.07
+Africa                                            ,2014Q2,         6269.11
+Africa                                            ,2014Q3,         6331.66
+Africa                                            ,2014Q4,          6393.5
+Africa                                            ,2015Q1,         6298.85
+Africa                                            ,2015Q2,         6182.87
+Africa                                            ,2015Q3,         6348.35
+Africa                                            ,2015Q4,         6497.84
+Africa                                            ,2016Q1,         6376.49
+Africa                                            ,2016Q2,         6399.13
+Africa                                            ,2016Q3,         6423.76
+Africa                                            ,2016Q4,         6470.23
+Africa                                            ,2017Q1,         6448.95
+Africa                                            ,2017Q2,         6481.98
+Africa                                            ,2017Q3,         6624.07
+Africa                                            ,2017Q4,         6785.66
+Africa                                            ,2018Q1,         6658.76
+Africa                                            ,2018Q2,         6624.48
+Africa                                            ,2018Q3,         6730.07
+Africa                                            ,2018Q4,         6928.64
+Africa                                            ,2019Q1,         6722.59
+Africa                                            ,2019Q2,         6763.32
+Africa                                            ,2019Q3,         6858.66
+Africa                                            ,2019Q4,         6963.22
+Africa                                            ,2020Q1,         6807.03
+Africa                                            ,2020Q2,         6092.33
+Africa                                            ,2020Q3,         6646.97
+Africa                                            ,2020Q4,         6685.31
+Africa                                            ,2021Q1,         6692.65
+Africa                                            ,2021Q2,         6793.09
+Africa                                            ,2021Q3,         6826.08
+Africa                                            ,2021Q4,         6998.61
+Africa                                            ,2022Q1,         7008.23
+Africa                                            ,2022Q2,         6924.16
+Africa                                            ,2022Q3,          6831.2
+Africa                                            ,2022Q4,         6866.53
+Africa                                            ,2023Q1,         6860.05
+Africa                                            ,2023Q2,         6958.22
+Americas                                          ,2010Q1,        22294.76
+Americas                                          ,2010Q2,        22045.06
+Americas                                          ,2010Q3,        22437.52
+Americas                                          ,2010Q4,        22396.16
+Americas                                          ,2011Q1,        22453.81
+Americas                                          ,2011Q2,        21959.68
+Americas                                          ,2011Q3,        22376.52
+Americas                                          ,2011Q4,        21802.15
+Americas                                          ,2012Q1,        21770.07
+Americas                                          ,2012Q2,        21581.07
+Americas                                          ,2012Q3,        22282.95
+Americas                                          ,2012Q4,        21937.16
+Americas                                          ,2013Q1,        22491.66
+Americas                                          ,2013Q2,        22099.29
+Americas                                          ,2013Q3,        22528.31
+Americas                                          ,2013Q4,        22347.63
+Americas                                          ,2014Q1,        23126.27
+Americas                                          ,2014Q2,        22140.14
+Americas                                          ,2014Q3,        22403.73
+Americas                                          ,2014Q4,        22441.56
+Americas                                          ,2015Q1,        22882.48
+Americas                                          ,2015Q2,        21884.54
+Americas                                          ,2015Q3,        22263.55
+Americas                                          ,2015Q4,        21749.46
+Americas                                          ,2016Q1,        21848.16
+Americas                                          ,2016Q2,        21580.68
+Americas                                          ,2016Q3,        22190.46
+Americas                                          ,2016Q4,        21577.55
+Americas                                          ,2017Q1,        21819.46
+Americas                                          ,2017Q2,        21583.82
+Americas                                          ,2017Q3,        22008.42
+Americas                                          ,2017Q4,        21606.75
+Americas                                          ,2018Q1,        22175.42
+Americas                                          ,2018Q2,        21726.29
+Americas                                          ,2018Q3,        22032.57
+Americas                                          ,2018Q4,        22186.48
+Americas                                          ,2019Q1,        22431.19
+Americas                                          ,2019Q2,        21327.68
+Americas                                          ,2019Q3,        22127.82
+Americas                                          ,2019Q4,        21263.55
+Americas                                          ,2020Q1,        21140.88
+Americas                                          ,2020Q2,        18636.49
+Americas                                          ,2020Q3,        20179.56
+Americas                                          ,2020Q4,        20121.14
+Americas                                          ,2021Q1,        21093.22
+Americas                                          ,2021Q2,        20822.94
+Americas                                          ,2021Q3,        21208.62
+Americas                                          ,2021Q4,        20860.49
+Americas                                          ,2022Q1,        21773.28
+Americas                                          ,2022Q2,        21225.98
+Americas                                          ,2022Q3,        21294.94
+Americas                                          ,2022Q4,        21058.42
+Americas                                          ,2023Q1,        21737.77
+Americas                                          ,2023Q2,        21253.67
+Asia                                              ,2010Q1,         47172.4
+Asia                                              ,2010Q2,         46286.6
+Asia                                              ,2010Q3,        46777.46
+Asia                                              ,2010Q4,        49236.73
+Asia                                              ,2011Q1,        51779.95
+Asia                                              ,2011Q2,        48908.57
+Asia                                              ,2011Q3,        49349.88
+Asia                                              ,2011Q4,        51359.62
+Asia                                              ,2012Q1,        54245.61
+Asia                                              ,2012Q2,        49834.44
+Asia                                              ,2012Q3,        50062.84
+Asia                                              ,2012Q4,        53233.22
+Asia                                              ,2013Q1,        54789.46
+Asia                                              ,2013Q2,        52020.23
+Asia                                              ,2013Q3,         51928.5
+Asia                                              ,2013Q4,        54348.66
+Asia                                              ,2014Q1,        55764.81
+Asia                                              ,2014Q2,        52409.05
+Asia                                              ,2014Q3,        53278.09
+Asia                                              ,2014Q4,         56184.6
+Asia                                              ,2015Q1,         55493.5
+Asia                                              ,2015Q2,         52705.3
+Asia                                              ,2015Q3,        53283.76
+Asia                                              ,2015Q4,        55892.96
+Asia                                              ,2016Q1,        54806.84
+Asia                                              ,2016Q2,        51904.53
+Asia                                              ,2016Q3,        52010.98
+Asia                                              ,2016Q4,        55298.09
+Asia                                              ,2017Q1,        56237.38
+Asia                                              ,2017Q2,        53530.13
+Asia                                              ,2017Q3,        53610.08
+Asia                                              ,2017Q4,        56208.94
+Asia                                              ,2018Q1,        58497.85
+Asia                                              ,2018Q2,         55439.3
+Asia                                              ,2018Q3,        56028.23
+Asia                                              ,2018Q4,        57083.22
+Asia                                              ,2019Q1,        58465.74
+Asia                                              ,2019Q2,        56290.89
+Asia                                              ,2019Q3,        56210.66
+Asia                                              ,2019Q4,        59058.62
+Asia                                              ,2020Q1,        57673.28
+Asia                                              ,2020Q2,        53038.48
+Asia                                              ,2020Q3,        56853.27
+Asia                                              ,2020Q4,        60229.61
+Asia                                              ,2021Q1,         61502.2
+Asia                                              ,2021Q2,        58095.03
+Asia                                              ,2021Q3,        57755.89
+Asia                                              ,2021Q4,        61129.79
+Asia                                              ,2022Q1,        63516.53
+Asia                                              ,2022Q2,        59144.78
+Asia                                              ,2022Q3,        59201.96
+Asia                                              ,2022Q4,        60923.78
+Asia                                              ,2023Q1,        62852.09
+Asia                                              ,2023Q2,        59063.92
+Australia and New Zealand                         ,2010Q1,         1309.31
+Australia and New Zealand                         ,2010Q2,         1283.43
+Australia and New Zealand                         ,2010Q3,         1302.12
+Australia and New Zealand                         ,2010Q4,          1285.8
+Australia and New Zealand                         ,2011Q1,         1278.26
+Australia and New Zealand                         ,2011Q2,         1297.18
+Australia and New Zealand                         ,2011Q3,          1300.3
+Australia and New Zealand                         ,2011Q4,         1320.72
+Australia and New Zealand                         ,2012Q1,          1307.8
+Australia and New Zealand                         ,2012Q2,         1308.71
+Australia and New Zealand                         ,2012Q3,         1299.92
+Australia and New Zealand                         ,2012Q4,         1317.97
+Australia and New Zealand                         ,2013Q1,         1312.01
+Australia and New Zealand                         ,2013Q2,         1292.29
+Australia and New Zealand                         ,2013Q3,          1258.5
+Australia and New Zealand                         ,2013Q4,         1286.72
+Australia and New Zealand                         ,2014Q1,         1278.31
+Australia and New Zealand                         ,2014Q2,          1256.7
+Australia and New Zealand                         ,2014Q3,         1269.75
+Australia and New Zealand                         ,2014Q4,         1306.17
+Australia and New Zealand                         ,2015Q1,          1278.5
+Australia and New Zealand                         ,2015Q2,         1284.95
+Australia and New Zealand                         ,2015Q3,         1303.96
+Australia and New Zealand                         ,2015Q4,         1317.49
+Australia and New Zealand                         ,2016Q1,         1316.84
+Australia and New Zealand                         ,2016Q2,         1311.17
+Australia and New Zealand                         ,2016Q3,         1304.52
+Australia and New Zealand                         ,2016Q4,         1310.77
+Australia and New Zealand                         ,2017Q1,         1312.82
+Australia and New Zealand                         ,2017Q2,         1321.03
+Emerging and Developing Economies                 ,2015Q4,        72028.67
+Emerging and Developing Economies                 ,2016Q1,        71531.67
+Emerging and Developing Economies                 ,2016Q2,        68351.62
+Emerging and Developing Economies                 ,2016Q3,        68215.93
+Emerging and Developing Economies                 ,2016Q4,        72541.49
+Emerging and Developing Economies                 ,2017Q1,        73538.76
+Emerging and Developing Economies                 ,2017Q2,        70374.62
+Emerging and Developing Economies                 ,2017Q3,        70289.36
+Emerging and Developing Economies                 ,2017Q4,        73285.89
+Emerging and Developing Economies                 ,2018Q1,         76140.2
+Emerging and Developing Economies                 ,2018Q2,        72305.61
+Emerging and Developing Economies                 ,2018Q3,        72723.09
+Emerging and Developing Economies                 ,2018Q4,        74901.04
+Emerging and Developing Economies                 ,2019Q1,        76182.88
+Emerging and Developing Economies                 ,2019Q2,        73197.49
+Emerging and Developing Economies                 ,2019Q3,        73597.84
+Emerging and Developing Economies                 ,2019Q4,        76458.56
+Emerging and Developing Economies                 ,2020Q1,        75005.19
+Emerging and Developing Economies                 ,2020Q2,        68644.32
+Emerging and Developing Economies                 ,2020Q3,        73129.53
+Emerging and Developing Economies                 ,2020Q4,        77286.55
+Emerging and Developing Economies                 ,2021Q1,        79210.02
+Emerging and Developing Economies                 ,2021Q2,        75096.22
+Emerging and Developing Economies                 ,2021Q3,        74683.12
+Emerging and Developing Economies                 ,2021Q4,        79083.78
+Emerging and Developing Economies                 ,2022Q1,        81564.94
+Emerging and Developing Economies                 ,2022Q2,        76396.46
+Emerging and Developing Economies                 ,2022Q3,        76038.08
+Emerging and Developing Economies                 ,2022Q4,        78534.43
+Emerging and Developing Economies                 ,2023Q1,         81228.6
+Emerging and Developing Economies                 ,2023Q2,        76940.18
+Europe                                            ,2010Q1,        16857.82
+Europe                                            ,2010Q2,        14866.26
+Europe                                            ,2010Q3,        14520.93
+Europe                                            ,2010Q4,         16731.6
+Europe                                            ,2011Q1,        17038.36
+Europe                                            ,2011Q2,        14818.29
+Europe                                            ,2011Q3,        14409.78
+Europe                                            ,2011Q4,        16234.46
+Europe                                            ,2012Q1,        17043.49
+Europe                                            ,2012Q2,        14618.98
+Europe                                            ,2012Q3,        14253.95
+Europe                                            ,2012Q4,         16150.6
+Europe                                            ,2013Q1,        16455.75
+Europe                                            ,2013Q2,        14466.89
+Europe                                            ,2013Q3,        14152.64
+Europe                                            ,2013Q4,        15559.02
+Europe                                            ,2014Q1,        15622.45
+Europe                                            ,2014Q2,        13958.24
+Europe                                            ,2014Q3,        13650.91
+Europe                                            ,2014Q4,        15421.91
+Europe                                            ,2015Q1,        15481.03
+Europe                                            ,2015Q2,        13835.11
+Europe                                            ,2015Q3,         13795.1
+Europe                                            ,2015Q4,        15211.04
+Europe                                            ,2016Q1,        15346.88
+Europe                                            ,2016Q2,        13737.51
+Europe                                            ,2016Q3,        13406.07
+Europe                                            ,2016Q4,        15795.41
+Europe                                            ,2017Q1,        15799.43
+Europe                                            ,2017Q2,        14092.77
+Europe                                            ,2017Q3,        13597.87
+Europe                                            ,2017Q4,        15306.56
+Europe                                            ,2018Q1,        16081.04
+Europe                                            ,2018Q2,        13831.56
+Europe                                            ,2018Q3,        13521.56
+Europe                                            ,2018Q4,        15487.98
+Europe                                            ,2019Q1,        15467.96
+Europe                                            ,2019Q2,        13751.57
+Europe                                            ,2019Q3,        13442.85
+Europe                                            ,2019Q4,        14767.19
+Europe                                            ,2020Q1,        14362.09
+Europe                                            ,2020Q2,        11828.77
+Europe                                            ,2020Q3,        12525.68
+Europe                                            ,2020Q4,        14253.55
+Europe                                            ,2021Q1,        14665.18
+Europe                                            ,2021Q2,        13057.07
+Europe                                            ,2021Q3,        12808.24
+Europe                                            ,2021Q4,           14807
+Europe                                            ,2022Q1,        14748.34
+Europe                                            ,2022Q2,        12982.05
+Europe                                            ,2022Q3,        12779.97
+Europe                                            ,2022Q4,        14211.69
+Europe                                            ,2023Q1,        14322.16
+Europe                                            ,2023Q2,        12707.66
+G20                                               ,2010Q1,        74033.87
+G20                                               ,2010Q2,        71672.21
+G20                                               ,2010Q3,        72105.63
+G20                                               ,2010Q4,        75734.28
+G20                                               ,2011Q1,        78007.04
+G20                                               ,2011Q2,        73989.44
+G20                                               ,2011Q3,        74528.62
+G20                                               ,2011Q4,        76309.89
+G20                                               ,2012Q1,        79289.82
+G20                                               ,2012Q2,        74266.47
+G20                                               ,2012Q3,        74853.11
+G20                                               ,2012Q4,        78103.43
+G20                                               ,2013Q1,           80416
+G20                                               ,2013Q2,        76200.29
+G20                                               ,2013Q3,        76413.16
+G20                                               ,2013Q4,        78593.68
+G20                                               ,2014Q1,         80615.6
+G20                                               ,2014Q2,        76161.44
+G20                                               ,2014Q3,        76924.33
+G20                                               ,2014Q4,        80413.43
+G20                                               ,2015Q1,        80053.37
+G20                                               ,2015Q2,        76033.31
+G20                                               ,2015Q3,        77056.53
+G20                                               ,2015Q4,           79118
+G20                                               ,2016Q1,        78073.76
+G20                                               ,2016Q2,        74333.79
+G20                                               ,2016Q3,        74766.35
+G20                                               ,2016Q4,        78312.23
+G20                                               ,2017Q1,        79179.95
+G20                                               ,2017Q2,         75923.2
+G20                                               ,2017Q3,        76107.42
+G20                                               ,2017Q4,        78985.44
+G20                                               ,2018Q1,        81788.19
+G20                                               ,2018Q2,        77447.84
+G20                                               ,2018Q3,        78266.58
+G20                                               ,2018Q4,        80318.13
+G20                                               ,2019Q1,        81613.62
+G20                                               ,2019Q2,        77655.95
+G20                                               ,2019Q3,        78259.12
+G20                                               ,2019Q4,         80370.8
+G20                                               ,2020Q1,        78494.97
+G20                                               ,2020Q2,        71112.32
+G20                                               ,2020Q3,        76494.86
+G20                                               ,2020Q4,         79791.8
+G20                                               ,2021Q1,        82320.93
+G20                                               ,2021Q2,        78346.47
+G20                                               ,2021Q3,        78201.82
+G20                                               ,2021Q4,        81476.52
+G20                                               ,2022Q1,        84556.91
+G20                                               ,2022Q2,        79292.03
+G20                                               ,2022Q3,        79635.48
+G20                                               ,2022Q4,        81376.98
+G20                                               ,2023Q1,        83855.39
+G20                                               ,2023Q2,        79453.39
+G7                                                ,2010Q1,        24109.59
+G7                                                ,2010Q2,        22700.16
+G7                                                ,2010Q3,        23060.44
+G7                                                ,2010Q4,        23978.11
+G7                                                ,2011Q1,        24096.14
+G7                                                ,2011Q2,        22268.14
+G7                                                ,2011Q3,        22674.44
+G7                                                ,2011Q4,        23028.42
+G7                                                ,2012Q1,        23454.75
+G7                                                ,2012Q2,         21885.8
+G7                                                ,2012Q3,        22250.61
+G7                                                ,2012Q4,         22918.9
+G7                                                ,2013Q1,        23810.06
+G7                                                ,2013Q2,         22305.1
+G7                                                ,2013Q3,        22415.73
+G7                                                ,2013Q4,        23292.28
+G7                                                ,2014Q1,        24024.13
+G7                                                ,2014Q2,        21887.72
+G7                                                ,2014Q3,        21936.26
+G7                                                ,2014Q4,        22907.51
+G7                                                ,2015Q1,         23622.1
+G7                                                ,2015Q2,        21597.46
+G7                                                ,2015Q3,        22060.99
+G7                                                ,2015Q4,        22114.71
+G7                                                ,2016Q1,        22589.53
+G7                                                ,2016Q2,        21130.39
+G7                                                ,2016Q3,        21697.82
+G7                                                ,2016Q4,        22202.08
+G7                                                ,2017Q1,        22392.04
+G7                                                ,2017Q2,        21068.39
+G7                                                ,2017Q3,        21339.72
+G7                                                ,2017Q4,        22235.59
+G7                                                ,2018Q1,        22907.16
+G7                                                ,2018Q2,        21120.23
+G7                                                ,2018Q3,        21424.81
+G7                                                ,2018Q4,         22442.1
+G7                                                ,2019Q1,        22638.21
+G7                                                ,2019Q2,        20812.61
+G7                                                ,2019Q3,         20999.8
+G7                                                ,2019Q4,        21455.02
+G7                                                ,2020Q1,        20966.67
+G7                                                ,2020Q2,        17523.58
+G7                                                ,2020Q3,        19355.32
+G7                                                ,2020Q4,        20085.46
+G7                                                ,2021Q1,        20867.28
+G7                                                ,2021Q2,        19820.44
+G7                                                ,2021Q3,        20115.99
+G7                                                ,2021Q4,        20680.43
+G7                                                ,2022Q1,        21521.04
+G7                                                ,2022Q2,        20023.62
+G7                                                ,2022Q3,        20237.75
+G7                                                ,2022Q4,           20673
+G7                                                ,2023Q1,        20757.02
+G7                                                ,2023Q2,        19387.01
+Latin America and the Caribbean                   ,2010Q1,         6551.15
+Latin America and the Caribbean                   ,2010Q2,         7034.22
+Latin America and the Caribbean                   ,2010Q3,         6996.42
+Latin America and the Caribbean                   ,2010Q4,         6760.84
+Latin America and the Caribbean                   ,2011Q1,         6863.95
+Latin America and the Caribbean                   ,2011Q2,         7159.29
+Latin America and the Caribbean                   ,2011Q3,         7184.98
+Latin America and the Caribbean                   ,2011Q4,         6901.17
+Latin America and the Caribbean                   ,2012Q1,         6967.04
+Latin America and the Caribbean                   ,2012Q2,         7329.53
+Latin America and the Caribbean                   ,2012Q3,          7521.8
+Latin America and the Caribbean                   ,2012Q4,         7182.66
+Latin America and the Caribbean                   ,2013Q1,         7190.57
+Latin America and the Caribbean                   ,2013Q2,         7457.49
+Latin America and the Caribbean                   ,2013Q3,         7614.96
+Latin America and the Caribbean                   ,2013Q4,         7111.72
+Latin America and the Caribbean                   ,2014Q1,         7238.14
+Latin America and the Caribbean                   ,2014Q2,         7495.15
+Latin America and the Caribbean                   ,2014Q3,         7569.21
+Latin America and the Caribbean                   ,2014Q4,         7257.87
+Latin America and the Caribbean                   ,2015Q1,         7325.21
+Latin America and the Caribbean                   ,2015Q2,         7430.55
+Latin America and the Caribbean                   ,2015Q3,         7421.18
+Latin America and the Caribbean                   ,2015Q4,         7232.17
+Latin America and the Caribbean                   ,2016Q1,         7178.44
+Latin America and the Caribbean                   ,2016Q2,         7596.97
+Latin America and the Caribbean                   ,2016Q3,          7433.1
+Latin America and the Caribbean                   ,2016Q4,          7022.5
+Latin America and the Caribbean                   ,2017Q1,          7391.1
+Latin America and the Caribbean                   ,2017Q2,         7499.37
+Latin America and the Caribbean                   ,2017Q3,         7518.81
+Latin America and the Caribbean                   ,2017Q4,         6881.78
+Latin America and the Caribbean                   ,2018Q1,         7118.46
+Latin America and the Caribbean                   ,2018Q2,         7344.06
+Latin America and the Caribbean                   ,2018Q3,         7339.26
+Latin America and the Caribbean                   ,2018Q4,         6953.39
+Latin America and the Caribbean                   ,2019Q1,            7241
+Latin America and the Caribbean                   ,2019Q2,         7235.49
+Latin America and the Caribbean                   ,2019Q3,         7607.37
+Latin America and the Caribbean                   ,2019Q4,         6669.34
+Oceania                                           ,2021Q2,         1309.57
+Oceania                                           ,2021Q3,         1248.78
+Oceania                                           ,2021Q4,         1286.25
+Oceania                                           ,2022Q1,          1273.4
+Oceania                                           ,2022Q2,          1300.4
+Oceania                                           ,2022Q3,         1310.15
+Oceania                                           ,2022Q4,         1305.56
+Oceania                                           ,2023Q1,         1318.65
+Oceania                                           ,2023Q2,         1321.17
+Other Oceania sub-regions                         ,2010Q1,           37.48
+Other Oceania sub-regions                         ,2010Q2,           35.39
+Other Oceania sub-regions                         ,2010Q3,           48.86
+Other Oceania sub-regions                         ,2010Q4,           39.17
+Other Oceania sub-regions                         ,2011Q1,           38.13
+Other Oceania sub-regions                         ,2011Q2,           35.02
+Other Oceania sub-regions                         ,2011Q3,           50.42
+Other Oceania sub-regions                         ,2011Q4,           38.23
+Other Oceania sub-regions                         ,2012Q1,           33.78
+Other Oceania sub-regions                         ,2012Q2,           44.63
+Other Oceania sub-regions                         ,2012Q3,           50.54
+Other Oceania sub-regions                         ,2012Q4,           40.82
+Other Oceania sub-regions                         ,2013Q1,           33.17
+Other Oceania sub-regions                         ,2013Q2,           35.61
+Other Oceania sub-regions                         ,2013Q3,           50.52
+Other Oceania sub-regions                         ,2013Q4,            44.3
+Other Oceania sub-regions                         ,2014Q1,           46.68
+Other Oceania sub-regions                         ,2014Q2,           45.38
+Other Oceania sub-regions                         ,2014Q3,           52.42
+Other Oceania sub-regions                         ,2014Q4,           38.14
+Other Oceania sub-regions                         ,2015Q1,            42.6
+Other Oceania sub-regions                         ,2015Q2,           43.49
+Other Oceania sub-regions                         ,2015Q3,           57.26
+Other Oceania sub-regions                         ,2015Q4,           49.45
+Other Oceania sub-regions                         ,2016Q1,           43.82
+Other Oceania sub-regions                         ,2016Q2,           48.86
+Other Oceania sub-regions                         ,2016Q3,           55.05
+Other Oceania sub-regions                         ,2016Q4,           53.68
+Other Oceania sub-regions                         ,2017Q1,           52.03
+Other Oceania sub-regions                         ,2017Q2,           52.04
+Other Oceania sub-regions                         ,2017Q3,           52.59
+Other Oceania sub-regions                         ,2017Q4,           45.34
+Other Oceania sub-regions                         ,2018Q1,           47.86
+Other Oceania sub-regions                         ,2018Q2,            53.4
+Other Oceania sub-regions                         ,2018Q3,           65.53
+Other Oceania sub-regions                         ,2018Q4,           48.34
+Other Oceania sub-regions                         ,2019Q1,           46.81
+Other Oceania sub-regions                         ,2019Q2,           49.81
+Other Oceania sub-regions                         ,2019Q3,           69.19
+Other Oceania sub-regions                         ,2019Q4,           56.45
+Other Oceania sub-regions                         ,2020Q1,           37.71
+Other Oceania sub-regions                         ,2020Q2,           37.65
+Other Oceania sub-regions                         ,2020Q3,            51.5
+Other Oceania sub-regions                         ,2020Q4,           48.44
+Other Oceania sub-regions                         ,2021Q1,           45.64
+Other Oceania sub-regions                         ,2021Q2,              55
+Other Oceania sub-regions                         ,2021Q3,           44.46
+Other Oceania sub-regions                         ,2021Q4,           35.35
+Other Oceania sub-regions                         ,2022Q1,           47.05
+Other Oceania sub-regions                         ,2022Q2,           45.52
+Other Oceania sub-regions                         ,2022Q3,           46.34
+Other Oceania sub-regions                         ,2022Q4,           42.91
+Other Oceania sub-regions                         ,2023Q1,           45.87
+Other Oceania sub-regions                         ,2023Q2,           45.22
+South-eastern Asia                                ,2010Q1,         4396.27
+South-eastern Asia                                ,2010Q2,         4532.81
+South-eastern Asia                                ,2010Q3,         4633.66
+South-eastern Asia                                ,2010Q4,         4822.07
+South-eastern Asia                                ,2011Q1,          4911.8
+South-eastern Asia                                ,2011Q2,         4744.55
+South-eastern Asia                                ,2011Q3,         4765.79
+South-eastern Asia                                ,2011Q4,         4872.18
+South-eastern Asia                                ,2012Q1,         4985.44
+South-eastern Asia                                ,2012Q2,          4882.4
+South-eastern Asia                                ,2012Q3,          4861.6
+South-eastern Asia                                ,2012Q4,         4976.08
+South-eastern Asia                                ,2013Q1,         4915.27
+South-eastern Asia                                ,2013Q2,         4791.89
+South-eastern Asia                                ,2013Q3,         4840.46
+South-eastern Asia                                ,2013Q4,         5309.18
+South-eastern Asia                                ,2014Q1,         5059.58
+South-eastern Asia                                ,2014Q2,         5075.63
+South-eastern Asia                                ,2014Q3,          5128.7
+South-eastern Asia                                ,2014Q4,         5297.94
+South-eastern Asia                                ,2015Q1,         5332.74
+South-eastern Asia                                ,2015Q2,          5127.3
+South-eastern Asia                                ,2015Q3,         5158.34
+South-eastern Asia                                ,2015Q4,          5336.9
+South-eastern Asia                                ,2016Q1,         5633.34
+South-eastern Asia                                ,2016Q2,         5145.37
+South-eastern Asia                                ,2016Q3,         5181.48
+South-eastern Asia                                ,2016Q4,         5346.36
+South-eastern Asia                                ,2017Q1,         5393.39
+South-eastern Asia                                ,2017Q2,         5465.59
+South-eastern Asia                                ,2017Q3,         5566.73
+South-eastern Asia                                ,2017Q4,         5747.14
+South-eastern Asia                                ,2018Q1,         5865.98
+South-eastern Asia                                ,2018Q2,         5751.26
+South-eastern Asia                                ,2018Q3,         5896.56
+South-eastern Asia                                ,2018Q4,         6029.99
+South-eastern Asia                                ,2019Q1,         6063.06
+South-eastern Asia                                ,2019Q2,         6002.58
+South-eastern Asia                                ,2019Q3,         6142.75
+South-eastern Asia                                ,2019Q4,         6375.46
+South-eastern Asia                                ,2020Q1,         6247.56
+South-eastern Asia                                ,2020Q2,         5565.83
+South-eastern Asia                                ,2020Q3,          5996.2
+South-eastern Asia                                ,2020Q4,         6116.89
+South-eastern Asia                                ,2021Q1,         6125.09
+South-eastern Asia                                ,2021Q2,         6005.44
+South-eastern Asia                                ,2021Q3,         5944.97
+South-eastern Asia                                ,2021Q4,         6312.32
+South-eastern Asia                                ,2022Q1,         6586.27
+South-eastern Asia                                ,2022Q2,         6302.18
+South-eastern Asia                                ,2022Q3,         6334.87
+South-eastern Asia                                ,2022Q4,          6358.2
+South-eastern Asia                                ,2023Q1,          6293.4
+South-eastern Asia                                ,2023Q2,         6240.76
+Southern Asia                                     ,2010Q1,         8962.35
+Southern Asia                                     ,2010Q2,         8701.25
+Southern Asia                                     ,2010Q3,          8693.6
+Southern Asia                                     ,2010Q4,         8940.59
+Southern Asia                                     ,2011Q1,          9367.5
+Southern Asia                                     ,2011Q2,         8919.27
+Southern Asia                                     ,2011Q3,          8894.8
+Southern Asia                                     ,2011Q4,         9412.04
+Southern Asia                                     ,2012Q1,        10032.85
+Southern Asia                                     ,2012Q2,         9078.28
+Southern Asia                                     ,2012Q3,         9098.69
+Southern Asia                                     ,2012Q4,         9852.66
+Southern Asia                                     ,2013Q1,        10391.98
+Southern Asia                                     ,2013Q2,         9484.51
+Southern Asia                                     ,2013Q3,         9300.78
+Southern Asia                                     ,2013Q4,          9493.4
+Southern Asia                                     ,2014Q1,        10295.87
+Southern Asia                                     ,2014Q2,          9584.7
+Southern Asia                                     ,2014Q3,         9878.98
+Southern Asia                                     ,2014Q4,        10737.63
+Southern Asia                                     ,2015Q1,        10464.92
+Southern Asia                                     ,2015Q2,         9742.68
+Southern Asia                                     ,2015Q3,        10058.14
+Southern Asia                                     ,2015Q4,        10700.06
+Southern Asia                                     ,2016Q1,        10611.43
+Southern Asia                                     ,2016Q2,        10305.11
+Southern Asia                                     ,2016Q3,        10371.44
+Southern Asia                                     ,2016Q4,        10860.34
+Southern Asia                                     ,2017Q1,        11178.68
+Southern Asia                                     ,2017Q2,        10916.55
+Southern Asia                                     ,2017Q3,        10727.87
+Southern Asia                                     ,2017Q4,        11108.51
+Southern Asia                                     ,2018Q1,        11792.23
+Southern Asia                                     ,2018Q2,        11181.96
+Southern Asia                                     ,2018Q3,        11129.94
+Southern Asia                                     ,2018Q4,        11354.61
+Southern Asia                                     ,2019Q1,        11495.36
+Southern Asia                                     ,2019Q2,        11217.27
+Southern Asia                                     ,2019Q3,        10730.96
+Southern Asia                                     ,2019Q4,        11572.04
+Southern Asia                                     ,2020Q1,        11960.77
+Southern Asia                                     ,2020Q2,         9109.93
+Southern Asia                                     ,2020Q3,        10495.63
+Southern Asia                                     ,2020Q4,         11502.7
+Southern Asia                                     ,2021Q1,        11684.86
+Southern Asia                                     ,2021Q2,        10732.62
+Southern Asia                                     ,2021Q3,        11223.64
+Southern Asia                                     ,2021Q4,        11952.37
+Southern Asia                                     ,2022Q1,        12263.38
+Southern Asia                                     ,2022Q2,        11774.21
+Southern Asia                                     ,2022Q3,        11447.25
+Southern Asia                                     ,2022Q4,         11670.3
+Southern Asia                                     ,2023Q1,         12233.7
+Southern Asia                                     ,2023Q2,        11376.04
+Southern Europe                                   ,2010Q1,         2539.45
+Southern Europe                                   ,2010Q2,         2470.74
+Southern Europe                                   ,2010Q3,         2506.09
+Southern Europe                                   ,2010Q4,          2608.8
+Southern Europe                                   ,2011Q1,          2602.4
+Southern Europe                                   ,2011Q2,         2460.31
+Southern Europe                                   ,2011Q3,         2447.59
+Southern Europe                                   ,2011Q4,         2553.33
+Southern Europe                                   ,2012Q1,         2575.22
+Southern Europe                                   ,2012Q2,         2375.82
+Southern Europe                                   ,2012Q3,          2363.5
+Southern Europe                                   ,2012Q4,         2382.82
+Southern Europe                                   ,2013Q1,         2301.42
+Southern Europe                                   ,2013Q2,         2191.49
+Southern Europe                                   ,2013Q3,         2227.03
+Southern Europe                                   ,2013Q4,         2345.82
+Southern Europe                                   ,2014Q1,         2226.47
+Southern Europe                                   ,2014Q2,         2173.36
+Southern Europe                                   ,2014Q3,         2182.72
+Southern Europe                                   ,2014Q4,         2211.02
+Southern Europe                                   ,2015Q1,         2184.84
+Southern Europe                                   ,2015Q2,         2082.95
+Southern Europe                                   ,2015Q3,         2139.02
+Southern Europe                                   ,2015Q4,         2195.19
+Southern Europe                                   ,2016Q1,         2162.36
+Southern Europe                                   ,2016Q2,         2032.95
+Southern Europe                                   ,2016Q3,         2059.61
+Southern Europe                                   ,2016Q4,         2222.33
+Southern Europe                                   ,2017Q1,         2227.32
+Southern Europe                                   ,2017Q2,         2105.63
+Southern Europe                                   ,2017Q3,         2099.91
+Southern Europe                                   ,2017Q4,         2254.96
+Latin America and the Caribbean                   ,2020Q1,         6990.27
+Latin America and the Caribbean                   ,2020Q2,         6520.29
+Latin America and the Caribbean                   ,2020Q3,         6888.64
+Latin America and the Caribbean                   ,2020Q4,         6721.59
+Latin America and the Caribbean                   ,2021Q1,         7069.87
+Latin America and the Caribbean                   ,2021Q2,         7275.16
+Latin America and the Caribbean                   ,2021Q3,         7201.59
+Latin America and the Caribbean                   ,2021Q4,         6940.74
+Latin America and the Caribbean                   ,2022Q1,         7231.58
+Latin America and the Caribbean                   ,2022Q2,         7495.85
+Latin America and the Caribbean                   ,2022Q3,         7347.51
+Latin America and the Caribbean                   ,2022Q4,          6876.7
+Latin America and the Caribbean                   ,2023Q1,         7631.77
+Latin America and the Caribbean                   ,2023Q2,         7790.38
+Northern Africa                                   ,2010Q1,         1848.19
+Northern Africa                                   ,2010Q2,         1790.61
+Northern Africa                                   ,2010Q3,         1774.38
+Northern Africa                                   ,2010Q4,          1795.9
+Northern Africa                                   ,2011Q1,         1734.26
+Northern Africa                                   ,2011Q2,         1724.92
+Northern Africa                                   ,2011Q3,         1712.83
+Northern Africa                                   ,2011Q4,         1814.05
+Northern Africa                                   ,2012Q1,         1905.42
+Northern Africa                                   ,2012Q2,         1890.45
+Northern Africa                                   ,2012Q3,         1830.97
+Northern Africa                                   ,2012Q4,         1972.62
+Northern Africa                                   ,2013Q1,         1975.05
+Northern Africa                                   ,2013Q2,          1929.4
+Northern Africa                                   ,2013Q3,         1761.61
+Northern Africa                                   ,2013Q4,         1851.01
+Northern Africa                                   ,2014Q1,         1931.28
+Northern Africa                                   ,2014Q2,         1845.23
+Northern Africa                                   ,2014Q3,         1917.15
+Northern Africa                                   ,2014Q4,         1942.78
+Northern Africa                                   ,2015Q1,         1957.76
+Northern Africa                                   ,2015Q2,         1928.13
+Northern Africa                                   ,2015Q3,         1873.59
+Northern Africa                                   ,2015Q4,          1976.1
+Northern Africa                                   ,2016Q1,         1961.24
+Northern Africa                                   ,2016Q2,         1938.28
+Northern Africa                                   ,2016Q3,         1963.13
+Northern Africa                                   ,2016Q4,         2003.24
+Northern Africa                                   ,2017Q1,         2084.44
+Northern Africa                                   ,2017Q2,         1990.18
+Northern Africa                                   ,2017Q3,         2003.91
+Northern Africa                                   ,2017Q4,         2127.61
+Northern Africa                                   ,2018Q1,         2174.47
+Northern Africa                                   ,2018Q2,          2058.8
+Northern Africa                                   ,2018Q3,         2011.29
+Northern Africa                                   ,2018Q4,         2176.22
+Northern Africa                                   ,2019Q1,         2124.16
+Northern Africa                                   ,2019Q2,         2056.33
+Northern Africa                                   ,2019Q3,         2007.13
+Northern Africa                                   ,2019Q4,         2040.53
+Northern Africa                                   ,2020Q1,         2016.87
+Northern Africa                                   ,2020Q2,         1822.85
+Northern Africa                                   ,2020Q3,         1919.23
+Northern Africa                                   ,2020Q4,          2026.1
+Northern Africa                                   ,2021Q1,         2162.22
+Northern Africa                                   ,2021Q2,         2118.24
+Northern Africa                                   ,2021Q3,         2095.46
+Northern Africa                                   ,2021Q4,         2172.59
+Northern Africa                                   ,2022Q1,          2292.5
+Northern Africa                                   ,2022Q2,          2164.2
+Northern Africa                                   ,2022Q3,         2123.33
+Northern Africa                                   ,2022Q4,          2144.8
+Northern Africa                                   ,2023Q1,          2233.6
+Northern Africa                                   ,2023Q2,         2189.98
+Northern America                                  ,2010Q1,        15743.68
+Northern America                                  ,2010Q2,        15010.84
+Northern America                                  ,2010Q3,        15441.15
+Northern America                                  ,2010Q4,         15635.4
+Northern America                                  ,2011Q1,         15589.8
+Northern America                                  ,2011Q2,        14800.34
+Northern America                                  ,2011Q3,        15191.46
+Northern America                                  ,2011Q4,        14900.97
+Northern America                                  ,2012Q1,        14803.05
+Northern America                                  ,2012Q2,         14251.6
+Northern America                                  ,2012Q3,        14761.14
+Northern America                                  ,2012Q4,        14754.54
+Northern America                                  ,2013Q1,        15301.06
+Northern America                                  ,2013Q2,        14641.76
+Northern America                                  ,2013Q3,        14913.36
+Northern America                                  ,2013Q4,        15235.92
+Northern America                                  ,2014Q1,        15888.06
+Northern America                                  ,2014Q2,        14644.98
+Northern America                                  ,2014Q3,         14834.6
+Northern America                                  ,2014Q4,        15183.67
+Northern America                                  ,2015Q1,         15557.2
+Northern America                                  ,2015Q2,        14453.92
+Northern America                                  ,2015Q3,        14842.38
+Northern America                                  ,2015Q4,        14517.21
+Northern America                                  ,2016Q1,        14669.63
+Northern America                                  ,2016Q2,        13983.76
+Northern America                                  ,2016Q3,         14757.4
+Northern America                                  ,2016Q4,           14555
+Northern America                                  ,2017Q1,        14428.35
+Northern America                                  ,2017Q2,        14084.43
+Northern America                                  ,2017Q3,        14489.65
+Northern America                                  ,2017Q4,        14725.02
+Northern America                                  ,2018Q1,        15056.97
+Northern America                                  ,2018Q2,        14382.21
+Northern America                                  ,2018Q3,        14693.29
+Northern America                                  ,2018Q4,        15233.06
+Northern America                                  ,2019Q1,        15190.23
+Northern America                                  ,2019Q2,        14092.19
+Northern America                                  ,2019Q3,        14520.43
+Northern America                                  ,2019Q4,        14594.19
+Northern America                                  ,2020Q1,        14150.61
+Northern America                                  ,2020Q2,        12116.21
+Northern America                                  ,2020Q3,        13290.93
+Northern America                                  ,2020Q4,         13399.5
+Northern America                                  ,2021Q1,        14023.35
+Northern America                                  ,2021Q2,        13547.79
+Northern America                                  ,2021Q3,        14007.01
+Northern America                                  ,2021Q4,         13919.8
+Northern America                                  ,2022Q1,        14541.71
+Northern America                                  ,2022Q2,        13730.18
+Northern America                                  ,2022Q3,        13947.39
+Northern America                                  ,2022Q4,        14181.74
+Northern America                                  ,2023Q1,        14105.99
+Northern America                                  ,2023Q2,        13463.27
+Northern Europe                                   ,2010Q1,         2371.33
+Northern Europe                                   ,2010Q2,         2158.89
+Northern Europe                                   ,2010Q3,         2066.91
+Northern Europe                                   ,2010Q4,         2367.21
+Northern Europe                                   ,2011Q1,          2308.2
+Northern Europe                                   ,2011Q2,         2062.55
+Northern Europe                                   ,2011Q3,         2009.24
+Northern Europe                                   ,2011Q4,         2154.58
+Northern Europe                                   ,2012Q1,         2242.67
+Northern Europe                                   ,2012Q2,         2079.25
+Northern Europe                                   ,2012Q3,         1987.47
+Northern Europe                                   ,2012Q4,         2198.95
+Northern Europe                                   ,2013Q1,         2270.75
+Northern Europe                                   ,2013Q2,         2077.57
+Northern Europe                                   ,2013Q3,            1946
+Northern Europe                                   ,2013Q4,         2096.73
+Northern Europe                                   ,2014Q1,            2129
+Northern Europe                                   ,2014Q2,         1957.44
+Northern Europe                                   ,2014Q3,         1889.55
+Northern Europe                                   ,2014Q4,         2051.09
+Northern Europe                                   ,2015Q1,         2160.66
+Northern Europe                                   ,2015Q2,         1967.81
+Northern Europe                                   ,2015Q3,         1879.08
+Northern Europe                                   ,2015Q4,          1977.6
+Northern Europe                                   ,2016Q1,         2047.08
+Northern Europe                                   ,2016Q2,         1950.89
+Northern Europe                                   ,2016Q3,         1822.32
+Northern Europe                                   ,2016Q4,         2031.87
+Northern Europe                                   ,2017Q1,         2047.88
+Northern Europe                                   ,2017Q2,          1877.6
+Northern Europe                                   ,2017Q3,         1815.05
+Northern Europe                                   ,2017Q4,         2000.04
+Northern Europe                                   ,2018Q1,         2086.26
+Northern Europe                                   ,2018Q2,         1904.96
+Northern Europe                                   ,2018Q3,         1827.11
+Northern Europe                                   ,2018Q4,         1975.84
+Northern Europe                                   ,2019Q1,         2019.04
+Northern Europe                                   ,2019Q2,         1894.52
+Northern Europe                                   ,2019Q3,         1768.19
+Northern Europe                                   ,2019Q4,         1874.95
+Northern Europe                                   ,2020Q1,         1807.76
+Northern Europe                                   ,2020Q2,         1478.39
+Northern Europe                                   ,2020Q3,         1666.42
+Northern Europe                                   ,2020Q4,         1740.64
+Northern Europe                                   ,2021Q1,         1750.76
+Northern Europe                                   ,2021Q2,         1709.24
+Northern Europe                                   ,2021Q3,         1710.88
+Northern Europe                                   ,2021Q4,         1761.96
+Northern Europe                                   ,2022Q1,         1755.11
+Northern Europe                                   ,2022Q2,         1752.34
+Northern Europe                                   ,2022Q3,         1747.08
+Northern Europe                                   ,2022Q4,         1758.49
+Northern Europe                                   ,2023Q1,         1725.67
+Northern Europe                                   ,2023Q2,         1686.46
+Oceania                                           ,2010Q1,         1346.82
+Oceania                                           ,2010Q2,         1318.83
+Oceania                                           ,2010Q3,         1350.91
+Oceania                                           ,2010Q4,         1325.04
+Oceania                                           ,2011Q1,         1316.39
+Oceania                                           ,2011Q2,         1332.18
+Oceania                                           ,2011Q3,         1350.78
+Oceania                                           ,2011Q4,         1358.97
+Oceania                                           ,2012Q1,         1341.53
+Oceania                                           ,2012Q2,         1353.33
+Oceania                                           ,2012Q3,         1350.47
+Oceania                                           ,2012Q4,         1358.75
+Oceania                                           ,2013Q1,         1345.13
+Oceania                                           ,2013Q2,         1327.92
+Oceania                                           ,2013Q3,            1309
+Oceania                                           ,2013Q4,         1331.05
+Oceania                                           ,2014Q1,         1325.02
+Oceania                                           ,2014Q2,         1302.03
+Oceania                                           ,2014Q3,         1322.21
+Oceania                                           ,2014Q4,         1344.33
+Oceania                                           ,2015Q1,         1321.09
+Oceania                                           ,2015Q2,         1328.45
+Oceania                                           ,2015Q3,         1361.23
+Oceania                                           ,2015Q4,         1366.91
+Oceania                                           ,2016Q1,         1360.76
+Oceania                                           ,2016Q2,         1360.04
+Oceania                                           ,2016Q3,         1359.64
+Oceania                                           ,2016Q4,         1364.43
+Oceania                                           ,2017Q1,         1364.83
+Oceania                                           ,2017Q2,         1373.05
+Oceania                                           ,2017Q3,         1388.22
+Oceania                                           ,2017Q4,         1391.58
+Oceania                                           ,2018Q1,         1378.12
+Oceania                                           ,2018Q2,         1381.18
+Oceania                                           ,2018Q3,         1378.16
+Oceania                                           ,2018Q4,         1391.58
+Oceania                                           ,2019Q1,          1370.8
+Oceania                                           ,2019Q2,         1361.39
+Oceania                                           ,2019Q3,         1362.74
+Oceania                                           ,2019Q4,            1389
+Oceania                                           ,2020Q1,         1349.58
+Oceania                                           ,2020Q2,         1238.32
+Oceania                                           ,2020Q3,         1303.12
+Oceania                                           ,2020Q4,         1323.12
+Oceania                                           ,2021Q1,         1288.91
+Australia and New Zealand                         ,2017Q3,         1335.65
+Australia and New Zealand                         ,2017Q4,         1346.25
+Australia and New Zealand                         ,2018Q1,         1330.22
+Australia and New Zealand                         ,2018Q2,         1327.72
+Australia and New Zealand                         ,2018Q3,         1312.62
+Australia and New Zealand                         ,2018Q4,         1343.29
+Australia and New Zealand                         ,2019Q1,         1323.95
+Australia and New Zealand                         ,2019Q2,         1311.58
+Australia and New Zealand                         ,2019Q3,         1293.61
+Australia and New Zealand                         ,2019Q4,         1332.51
+Australia and New Zealand                         ,2020Q1,         1311.88
+Australia and New Zealand                         ,2020Q2,         1200.74
+Australia and New Zealand                         ,2020Q3,         1251.57
+Australia and New Zealand                         ,2020Q4,         1274.73
+Australia and New Zealand                         ,2021Q1,         1243.28
+Australia and New Zealand                         ,2021Q2,         1254.61
+Australia and New Zealand                         ,2021Q3,         1204.38
+Australia and New Zealand                         ,2021Q4,          1250.9
+Australia and New Zealand                         ,2022Q1,         1226.34
+Australia and New Zealand                         ,2022Q2,         1254.83
+Australia and New Zealand                         ,2022Q3,         1263.78
+Australia and New Zealand                         ,2022Q4,         1262.63
+Australia and New Zealand                         ,2023Q1,         1272.77
+Australia and New Zealand                         ,2023Q2,          1275.9
+Central Asia                                      ,2010Q1,         1884.04
+Central Asia                                      ,2010Q2,          933.62
+Central Asia                                      ,2010Q3,           863.6
+Central Asia                                      ,2010Q4,         1427.23
+Central Asia                                      ,2011Q1,         1977.73
+Central Asia                                      ,2011Q2,          825.57
+Central Asia                                      ,2011Q3,          733.32
+Central Asia                                      ,2011Q4,         1653.44
+Central Asia                                      ,2012Q1,         2071.26
+Central Asia                                      ,2012Q2,          644.22
+Central Asia                                      ,2012Q3,          753.52
+Central Asia                                      ,2012Q4,         1739.47
+Central Asia                                      ,2013Q1,         1772.12
+Central Asia                                      ,2013Q2,          999.54
+Central Asia                                      ,2013Q3,          868.19
+Central Asia                                      ,2013Q4,         1637.53
+Central Asia                                      ,2014Q1,         2043.75
+Central Asia                                      ,2014Q2,          935.74
+Central Asia                                      ,2014Q3,           814.6
+Central Asia                                      ,2014Q4,         1811.12
+Central Asia                                      ,2015Q1,         1897.34
+Central Asia                                      ,2015Q2,         1028.75
+Central Asia                                      ,2015Q3,         1042.54
+Central Asia                                      ,2015Q4,         1684.95
+Central Asia                                      ,2016Q1,         1713.79
+Central Asia                                      ,2016Q2,         1059.24
+Central Asia                                      ,2016Q3,         1047.37
+Central Asia                                      ,2016Q4,         1941.79
+Central Asia                                      ,2017Q1,         2193.32
+Central Asia                                      ,2017Q2,         1111.35
+Central Asia                                      ,2017Q3,         1021.74
+Central Asia                                      ,2017Q4,         1632.62
+Central Asia                                      ,2018Q1,         2105.71
+Central Asia                                      ,2018Q2,          1141.4
+Central Asia                                      ,2018Q3,         1019.42
+Central Asia                                      ,2018Q4,         1911.04
+Central Asia                                      ,2019Q1,         2047.96
+Central Asia                                      ,2019Q2,         1179.28
+Central Asia                                      ,2019Q3,         1018.22
+Central Asia                                      ,2019Q4,         1722.28
+Central Asia                                      ,2020Q1,         1753.13
+Central Asia                                      ,2020Q2,         1060.91
+Central Asia                                      ,2020Q3,          948.33
+Central Asia                                      ,2020Q4,         2000.98
+Central Asia                                      ,2021Q1,         2068.64
+Central Asia                                      ,2021Q2,         1103.68
+Central Asia                                      ,2021Q3,         1031.92
+Central Asia                                      ,2021Q4,         1847.89
+Central Asia                                      ,2022Q1,         2140.32
+Central Asia                                      ,2022Q2,         1071.64
+Central Asia                                      ,2022Q3,         1089.98
+Central Asia                                      ,2022Q4,         1924.53
+Central Asia                                      ,2023Q1,         2184.92
+Central Asia                                      ,2023Q2,         1269.56
+Eastern Asia                                      ,2010Q1,        27748.69
+Eastern Asia                                      ,2010Q2,        27637.23
+Eastern Asia                                      ,2010Q3,         28015.5
+Eastern Asia                                      ,2010Q4,        29339.35
+Eastern Asia                                      ,2011Q1,        30973.82
+Eastern Asia                                      ,2011Q2,        29772.29
+Eastern Asia                                      ,2011Q3,        30189.98
+Eastern Asia                                      ,2011Q4,        30508.62
+Eastern Asia                                      ,2012Q1,        32181.25
+Eastern Asia                                      ,2012Q2,        30211.69
+Eastern Asia                                      ,2012Q3,        30402.64
+Eastern Asia                                      ,2012Q4,        31781.13
+Eastern Asia                                      ,2013Q1,        32855.51
+Eastern Asia                                      ,2013Q2,        31652.07
+Eastern Asia                                      ,2013Q3,        31848.91
+Eastern Asia                                      ,2013Q4,        32845.05
+Eastern Asia                                      ,2014Q1,        33301.84
+Eastern Asia                                      ,2014Q2,        31724.61
+Eastern Asia                                      ,2014Q3,         32126.9
+Eastern Asia                                      ,2014Q4,        33112.53
+Eastern Asia                                      ,2015Q1,        32566.69
+Eastern Asia                                      ,2015Q2,        31609.11
+Eastern Asia                                      ,2015Q3,        31782.89
+Eastern Asia                                      ,2015Q4,        32572.76
+Eastern Asia                                      ,2016Q1,        31363.11
+Eastern Asia                                      ,2016Q2,        29875.35
+Eastern Asia                                      ,2016Q3,        30089.97
+Eastern Asia                                      ,2016Q4,        31486.27
+Eastern Asia                                      ,2017Q1,        31926.05
+Eastern Asia                                      ,2017Q2,        30532.33
+Eastern Asia                                      ,2017Q3,        30768.26
+Eastern Asia                                      ,2017Q4,        32004.43
+Eastern Asia                                      ,2018Q1,        33259.64
+Eastern Asia                                      ,2018Q2,        31758.28
+Eastern Asia                                      ,2018Q3,         32344.1
+Eastern Asia                                      ,2018Q4,         32323.4
+Eastern Asia                                      ,2019Q1,        33486.24
+Eastern Asia                                      ,2019Q2,        32265.05
+Eastern Asia                                      ,2019Q3,        32609.21
+Eastern Asia                                      ,2019Q4,        33613.63
+Eastern Asia                                      ,2020Q1,        32123.61
+Eastern Asia                                      ,2020Q2,         32247.4
+Eastern Asia                                      ,2020Q3,        33804.49
+Eastern Asia                                      ,2020Q4,        34810.38
+Eastern Asia                                      ,2021Q1,        35908.91
+Eastern Asia                                      ,2021Q2,        34597.94
+Eastern Asia                                      ,2021Q3,        33879.73
+Eastern Asia                                      ,2021Q4,        35028.89
+Eastern Asia                                      ,2022Q1,        36746.08
+Eastern Asia                                      ,2022Q2,        34036.69
+Eastern Asia                                      ,2022Q3,        34330.47
+Eastern Asia                                      ,2022Q4,        34816.64
+Eastern Asia                                      ,2023Q1,        36178.87
+Eastern Asia                                      ,2023Q2,        34326.39
+Eastern Europe                                    ,2010Q1,         7696.48
+Eastern Europe                                    ,2010Q2,         6256.93
+Eastern Europe                                    ,2010Q3,         6117.69
+Eastern Europe                                    ,2010Q4,         7438.64
+Eastern Europe                                    ,2011Q1,         7953.31
+Eastern Europe                                    ,2011Q2,            6523
+Eastern Europe                                    ,2011Q3,          6244.3
+Eastern Europe                                    ,2011Q4,         7468.23
+Eastern Europe                                    ,2012Q1,         8047.17
+Eastern Europe                                    ,2012Q2,         6351.22
+Eastern Europe                                    ,2012Q3,         6199.31
+Eastern Europe                                    ,2012Q4,          7519.9
+Eastern Europe                                    ,2013Q1,         7650.57
+Eastern Europe                                    ,2013Q2,         6323.27
+Eastern Europe                                    ,2013Q3,         6244.42
+Eastern Europe                                    ,2013Q4,         7103.38
+Eastern Europe                                    ,2014Q1,            7377
+Eastern Europe                                    ,2014Q2,          6179.5
+Eastern Europe                                    ,2014Q3,         5987.82
+Eastern Europe                                    ,2014Q4,         7269.44
+Eastern Europe                                    ,2015Q1,         7134.76
+Eastern Europe                                    ,2015Q2,         6131.62
+Eastern Europe                                    ,2015Q3,          6076.2
+Eastern Europe                                    ,2015Q4,         7121.58
+Eastern Europe                                    ,2016Q1,         7158.19
+Eastern Europe                                    ,2016Q2,         6035.87
+Eastern Europe                                    ,2016Q3,         5968.21
+Eastern Europe                                    ,2016Q4,         7545.47
+Eastern Europe                                    ,2017Q1,         7472.44
+Eastern Europe                                    ,2017Q2,         6399.89
+Eastern Europe                                    ,2017Q3,         6117.34
+Eastern Europe                                    ,2017Q4,         7214.97
+Eastern Europe                                    ,2018Q1,         7823.09
+Eastern Europe                                    ,2018Q2,         6349.44
+Eastern Europe                                    ,2018Q3,          6120.8
+Eastern Europe                                    ,2018Q4,         7554.57
+Eastern Europe                                    ,2019Q1,          7515.3
+Eastern Europe                                    ,2019Q2,         6308.19
+Eastern Europe                                    ,2019Q3,         6342.38
+Eastern Europe                                    ,2019Q4,         7274.59
+Eastern Europe                                    ,2020Q1,         7125.68
+Eastern Europe                                    ,2020Q2,         5987.91
+Eastern Europe                                    ,2020Q3,         5967.11
+Eastern Europe                                    ,2020Q4,         7213.32
+Eastern Europe                                    ,2021Q1,         7597.99
+Eastern Europe                                    ,2021Q2,         6216.73
+Eastern Europe                                    ,2021Q3,         6175.21
+Eastern Europe                                    ,2021Q4,         7565.22
+Eastern Europe                                    ,2022Q1,         7553.04
+Eastern Europe                                    ,2022Q2,         6092.58
+Eastern Europe                                    ,2022Q3,         5975.17
+Eastern Europe                                    ,2022Q4,         7257.68
+Eastern Europe                                    ,2023Q1,         7296.99
+Eastern Europe                                    ,2023Q2,         6165.54
+Emerging and Developing Economies                 ,2010Q1,        62072.35
+Emerging and Developing Economies                 ,2010Q2,        60538.41
+Emerging and Developing Economies                 ,2010Q3,        60805.68
+Emerging and Developing Economies                 ,2010Q4,        64052.08
+Emerging and Developing Economies                 ,2011Q1,        66964.64
+Emerging and Developing Economies                 ,2011Q2,        63364.67
+Emerging and Developing Economies                 ,2011Q3,        63399.27
+Emerging and Developing Economies                 ,2011Q4,        66571.75
+Emerging and Developing Economies                 ,2012Q1,         69660.1
+Emerging and Developing Economies                 ,2012Q2,        64636.08
+Emerging and Developing Economies                 ,2012Q3,        64784.41
+Emerging and Developing Economies                 ,2012Q4,         68806.6
+Emerging and Developing Economies                 ,2013Q1,        70207.81
+Emerging and Developing Economies                 ,2013Q2,        66886.92
+Emerging and Developing Economies                 ,2013Q3,        66853.19
+Emerging and Developing Economies                 ,2013Q4,        69434.25
+Emerging and Developing Economies                 ,2014Q1,        71097.57
+Emerging and Developing Economies                 ,2014Q2,        67449.02
+Emerging and Developing Economies                 ,2014Q3,        68203.32
+Emerging and Developing Economies                 ,2014Q4,        71832.17
+Emerging and Developing Economies                 ,2015Q1,        70586.24
+Emerging and Developing Economies                 ,2015Q2,        67225.28
+Emerging and Developing Economies                 ,2015Q3,        68061.29
+World                                             ,2023Q1,        107090.7
+World                                             ,2023Q2,       101304.58
+Southern Europe                                   ,2018Q1,         2225.57
+Southern Europe                                   ,2018Q2,          2058.6
+Southern Europe                                   ,2018Q3,         2075.28
+Southern Europe                                   ,2018Q4,         2192.06
+Southern Europe                                   ,2019Q1,         2156.47
+Southern Europe                                   ,2019Q2,         2070.94
+Southern Europe                                   ,2019Q3,         1985.99
+Southern Europe                                   ,2019Q4,         2035.87
+Southern Europe                                   ,2020Q1,         1982.58
+Southern Europe                                   ,2020Q2,         1585.76
+Southern Europe                                   ,2020Q3,         1857.09
+Southern Europe                                   ,2020Q4,          1919.9
+Southern Europe                                   ,2021Q1,         1911.28
+Southern Europe                                   ,2021Q2,         1887.57
+Southern Europe                                   ,2021Q3,         1847.57
+Southern Europe                                   ,2021Q4,         2020.93
+Southern Europe                                   ,2022Q1,         2028.15
+Southern Europe                                   ,2022Q2,         1916.19
+Southern Europe                                   ,2022Q3,            1905
+Southern Europe                                   ,2022Q4,         1911.65
+Southern Europe                                   ,2023Q1,         1954.33
+Southern Europe                                   ,2023Q2,          1817.1
+Sub-Saharan Africa                                ,2010Q1,         3744.41
+Sub-Saharan Africa                                ,2010Q2,         3976.57
+Sub-Saharan Africa                                ,2010Q3,         4080.39
+Sub-Saharan Africa                                ,2010Q4,         3963.13
+Sub-Saharan Africa                                ,2011Q1,            4011
+Sub-Saharan Africa                                ,2011Q2,         4064.42
+Sub-Saharan Africa                                ,2011Q3,         4044.62
+Sub-Saharan Africa                                ,2011Q4,          3916.1
+Sub-Saharan Africa                                ,2012Q1,         4002.85
+Sub-Saharan Africa                                ,2012Q2,         4142.67
+Sub-Saharan Africa                                ,2012Q3,         4218.51
+Sub-Saharan Africa                                ,2012Q4,         4199.87
+Sub-Saharan Africa                                ,2013Q1,         4105.36
+Sub-Saharan Africa                                ,2013Q2,         4236.11
+Sub-Saharan Africa                                ,2013Q3,         4360.44
+Sub-Saharan Africa                                ,2013Q4,          4302.8
+Sub-Saharan Africa                                ,2014Q1,         4226.78
+Sub-Saharan Africa                                ,2014Q2,          4423.9
+Sub-Saharan Africa                                ,2014Q3,         4414.47
+Sub-Saharan Africa                                ,2014Q4,         4450.68
+Sub-Saharan Africa                                ,2015Q1,         4341.04
+Sub-Saharan Africa                                ,2015Q2,         4254.71
+Sub-Saharan Africa                                ,2015Q3,         4474.72
+Sub-Saharan Africa                                ,2015Q4,         4521.78
+Sub-Saharan Africa                                ,2016Q1,          4415.2
+Sub-Saharan Africa                                ,2016Q2,         4460.81
+Sub-Saharan Africa                                ,2016Q3,         4460.55
+Sub-Saharan Africa                                ,2016Q4,         4466.91
+Sub-Saharan Africa                                ,2017Q1,         4364.49
+Sub-Saharan Africa                                ,2017Q2,         4491.85
+Sub-Saharan Africa                                ,2017Q3,          4620.2
+Sub-Saharan Africa                                ,2017Q4,         4658.06
+Sub-Saharan Africa                                ,2018Q1,         4484.26
+Sub-Saharan Africa                                ,2018Q2,         4565.69
+Sub-Saharan Africa                                ,2018Q3,         4718.81
+Sub-Saharan Africa                                ,2018Q4,          4752.4
+Sub-Saharan Africa                                ,2019Q1,         4598.41
+Sub-Saharan Africa                                ,2019Q2,         4707.04
+Sub-Saharan Africa                                ,2019Q3,         4851.58
+Sub-Saharan Africa                                ,2019Q4,         4922.69
+Sub-Saharan Africa                                ,2020Q1,         4790.08
+Sub-Saharan Africa                                ,2020Q2,         4269.48
+Sub-Saharan Africa                                ,2020Q3,         4727.64
+Sub-Saharan Africa                                ,2020Q4,         4659.18
+Sub-Saharan Africa                                ,2021Q1,         4530.43
+Sub-Saharan Africa                                ,2021Q2,         4674.94
+Sub-Saharan Africa                                ,2021Q3,         4730.54
+Sub-Saharan Africa                                ,2021Q4,         4825.95
+Sub-Saharan Africa                                ,2022Q1,         4715.61
+Sub-Saharan Africa                                ,2022Q2,          4759.9
+Sub-Saharan Africa                                ,2022Q3,         4707.84
+Sub-Saharan Africa                                ,2022Q4,         4721.73
+Sub-Saharan Africa                                ,2023Q1,         4626.34
+Sub-Saharan Africa                                ,2023Q2,         4768.17
+Western Asia                                      ,2010Q1,         4181.06
+Western Asia                                      ,2010Q2,         4481.57
+Western Asia                                      ,2010Q3,         4571.14
+Western Asia                                      ,2010Q4,         4707.54
+Western Asia                                      ,2011Q1,         4549.19
+Western Asia                                      ,2011Q2,         4646.72
+Western Asia                                      ,2011Q3,         4766.02
+Western Asia                                      ,2011Q4,         4913.22
+Western Asia                                      ,2012Q1,         4974.79
+Western Asia                                      ,2012Q2,         5017.82
+Western Asia                                      ,2012Q3,         4946.33
+Western Asia                                      ,2012Q4,         4883.92
+Western Asia                                      ,2013Q1,         4854.61
+Western Asia                                      ,2013Q2,         5092.19
+Western Asia                                      ,2013Q3,         5070.22
+Western Asia                                      ,2013Q4,         5063.44
+Western Asia                                      ,2014Q1,         5063.73
+Western Asia                                      ,2014Q2,         5088.46
+Western Asia                                      ,2014Q3,         5328.91
+Western Asia                                      ,2014Q4,         5225.37
+Western Asia                                      ,2015Q1,         5231.76
+Western Asia                                      ,2015Q2,         5197.38
+Western Asia                                      ,2015Q3,         5241.83
+Western Asia                                      ,2015Q4,         5598.17
+Western Asia                                      ,2016Q1,         5485.07
+Western Asia                                      ,2016Q2,         5519.51
+Western Asia                                      ,2016Q3,         5320.73
+Western Asia                                      ,2016Q4,         5663.29
+Western Asia                                      ,2017Q1,         5546.04
+Western Asia                                      ,2017Q2,         5504.32
+Western Asia                                      ,2017Q3,         5525.49
+Western Asia                                      ,2017Q4,         5716.17
+Western Asia                                      ,2018Q1,          5474.4
+Western Asia                                      ,2018Q2,         5606.46
+Western Asia                                      ,2018Q3,         5638.25
+Western Asia                                      ,2018Q4,         5464.15
+Western Asia                                      ,2019Q1,         5372.98
+Western Asia                                      ,2019Q2,         5626.61
+Western Asia                                      ,2019Q3,         5709.45
+Western Asia                                      ,2019Q4,         5775.26
+Western Asia                                      ,2020Q1,         5588.35
+Western Asia                                      ,2020Q2,         5054.38
+Western Asia                                      ,2020Q3,         5608.67
+Western Asia                                      ,2020Q4,         5798.64
+Western Asia                                      ,2021Q1,         5714.75
+Western Asia                                      ,2021Q2,         5655.38
+Western Asia                                      ,2021Q3,         5675.59
+Western Asia                                      ,2021Q4,         5988.28
+Western Asia                                      ,2022Q1,         5780.53
+Western Asia                                      ,2022Q2,            5960
+Western Asia                                      ,2022Q3,          5999.3
+Western Asia                                      ,2022Q4,         6154.13
+Western Asia                                      ,2023Q1,         5961.16
+Western Asia                                      ,2023Q2,         5851.18
+Western Europe                                    ,2010Q1,         4250.56
+Western Europe                                    ,2010Q2,         3979.64
+Western Europe                                    ,2010Q3,         3830.25
+Western Europe                                    ,2010Q4,         4316.94
+Western Europe                                    ,2011Q1,         4174.44
+Western Europe                                    ,2011Q2,         3772.39
+Western Europe                                    ,2011Q3,         3708.61
+Western Europe                                    ,2011Q4,         4058.31
+Western Europe                                    ,2012Q1,         4178.53
+Western Europe                                    ,2012Q2,         3812.62
+Western Europe                                    ,2012Q3,         3703.67
+Western Europe                                    ,2012Q4,         4048.85
+Western Europe                                    ,2013Q1,         4233.03
+Western Europe                                    ,2013Q2,         3874.64
+Western Europe                                    ,2013Q3,         3735.21
+Western Europe                                    ,2013Q4,         4013.21
+Western Europe                                    ,2014Q1,         3890.06
+Western Europe                                    ,2014Q2,          3647.9
+Western Europe                                    ,2014Q3,         3590.77
+Western Europe                                    ,2014Q4,         3890.33
+Western Europe                                    ,2015Q1,         4000.79
+Western Europe                                    ,2015Q2,         3652.84
+Western Europe                                    ,2015Q3,         3700.85
+Western Europe                                    ,2015Q4,         3916.61
+Western Europe                                    ,2016Q1,         3979.12
+Western Europe                                    ,2016Q2,         3717.77
+Western Europe                                    ,2016Q3,         3555.78
+Western Europe                                    ,2016Q4,          3995.8
+Western Europe                                    ,2017Q1,         4051.74
+Western Europe                                    ,2017Q2,         3709.68
+Western Europe                                    ,2017Q3,         3565.78
+Western Europe                                    ,2017Q4,         3836.64
+Western Europe                                    ,2018Q1,         3946.16
+Western Europe                                    ,2018Q2,         3518.46
+Western Europe                                    ,2018Q3,          3498.4
+Western Europe                                    ,2018Q4,         3765.49
+Western Europe                                    ,2019Q1,         3777.18
+Western Europe                                    ,2019Q2,         3477.91
+Western Europe                                    ,2019Q3,         3346.29
+Western Europe                                    ,2019Q4,         3581.64
+Western Europe                                    ,2020Q1,         3446.06
+Western Europe                                    ,2020Q2,         2776.76
+Western Europe                                    ,2020Q3,         3034.98
+Western Europe                                    ,2020Q4,          3379.6
+Western Europe                                    ,2021Q1,         3405.19
+Western Europe                                    ,2021Q2,         3243.57
+Western Europe                                    ,2021Q3,         3074.55
+Western Europe                                    ,2021Q4,         3459.01
+Western Europe                                    ,2022Q1,         3412.09
+Western Europe                                    ,2022Q2,          3220.9
+Western Europe                                    ,2022Q3,          3152.7
+Western Europe                                    ,2022Q4,         3283.98
+Western Europe                                    ,2023Q1,          3345.1
+Western Europe                                    ,2023Q2,         3038.51
+World                                             ,2010Q1,        93264.44
+World                                             ,2010Q2,        90284.01
+World                                             ,2010Q3,        90941.61
+World                                             ,2010Q4,        95448.57
+World                                             ,2011Q1,        98333.83
+World                                             ,2011Q2,        92808.11
+World                                             ,2011Q3,        93244.51
+World                                             ,2011Q4,        96485.38
+World                                             ,2012Q1,       100309.17
+World                                             ,2012Q2,        93421.11
+World                                             ,2012Q3,        93999.77
+World                                             ,2012Q4,        98852.22
+World                                             ,2013Q1,       101162.53
+World                                             ,2013Q2,        96079.88
+World                                             ,2013Q3,        96040.62
+World                                             ,2013Q4,        99740.26
+World                                             ,2014Q1,       101996.53
+World                                             ,2014Q2,        96078.61
+World                                             ,2014Q3,        96986.62
+World                                             ,2014Q4,       101785.86
+World                                             ,2015Q1,        101476.9
+World                                             ,2015Q2,         95936.3
+World                                             ,2015Q3,        97052.05
+World                                             ,2015Q4,       100718.34
+World                                             ,2016Q1,        99739.01
+World                                             ,2016Q2,        94982.02
+World                                             ,2016Q3,        95390.88
+World                                             ,2016Q4,       100505.71
+World                                             ,2017Q1,       101670.05
+World                                             ,2017Q2,        97061.85
+World                                             ,2017Q3,        97228.74
+World                                             ,2017Q4,       101299.54
+World                                             ,2018Q1,       104791.29
+World                                             ,2018Q2,        99002.73
+World                                             ,2018Q3,        99690.76
+World                                             ,2018Q4,       103077.87
+World                                             ,2019Q1,       104458.27
+World                                             ,2019Q2,        99494.91
+World                                             ,2019Q3,       100002.73
+World                                             ,2019Q4,       103441.54
+World                                             ,2020Q1,       101332.81
+World                                             ,2020Q2,        90834.44
+World                                             ,2020Q3,        97508.53
+World                                             ,2020Q4,       102612.73
+World                                             ,2021Q1,       105242.27
+World                                             ,2021Q2,       100077.79
+World                                             ,2021Q3,        99847.63
+World                                             ,2021Q4,       105082.11
+World                                             ,2022Q1,       108319.73
+World                                             ,2022Q2,       101577.49
+World                                             ,2022Q3,       101418.11
+World                                             ,2022Q4,       104365.91

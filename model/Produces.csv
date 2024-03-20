@@ -1,0 +1,541 @@
+ghgYear,industryName,totalco2concentration
+2010Q1,"Agriculture, Forestry and Fishing",34175.16
+2010Q1,Construction,3919.65
+2010Q1,"Electricity, Gas, Steam and Air Conditioning Supply",64387.33
+2010Q1,Manufacturing,48376.39
+2010Q1,Mining,20071.35
+2010Q1,Other Services Industries,10073.56
+2010Q1,Total Households,25987.25
+2010Q1,Total Industry and Households,235600.6
+2010Q1,Transportation and Storage,18081.08
+2010Q1,"Water supply; sewerage, waste management and remediation activities",10528.86
+2010Q2,"Agriculture, Forestry and Fishing",29175.82
+2010Q2,Construction,4026.71
+2010Q2,"Electricity, Gas, Steam and Air Conditioning Supply",62223.34
+2010Q2,Manufacturing,49425.18
+2010Q2,Mining,20779.77
+2010Q2,Other Services Industries,8923.82
+2010Q2,Total Households,24092.66
+2010Q2,Total Industry and Households,227754.25
+2010Q2,Transportation and Storage,18545.4
+2010Q2,"Water supply; sewerage, waste management and remediation activities",10561.21
+2010Q3,"Agriculture, Forestry and Fishing",28180.97
+2010Q3,Construction,3994.02
+2010Q3,"Electricity, Gas, Steam and Air Conditioning Supply",64616.78
+2010Q3,Manufacturing,49638.47
+2010Q3,Mining,21251.41
+2010Q3,Other Services Industries,8571.46
+2010Q3,Total Households,23586.2
+2010Q3,Total Industry and Households,229466.21
+2010Q3,Transportation and Storage,18988.97
+2010Q3,"Water supply; sewerage, waste management and remediation activities",10638.03
+2010Q4,"Agriculture, Forestry and Fishing",32023.17
+2010Q4,Construction,3954.35
+2010Q4,"Electricity, Gas, Steam and Air Conditioning Supply",66719.29
+2010Q4,Manufacturing,50603.3
+2010Q4,Mining,21637.9
+2010Q4,Other Services Industries,9933.25
+2010Q4,Total Households,26183.02
+2010Q4,Total Industry and Households,240753.35
+2010Q4,Transportation and Storage,18837.51
+2010Q4,"Water supply; sewerage, waste management and remediation activities",10861.57
+2011Q1,"Agriculture, Forestry and Fishing",36137.43
+2011Q1,Construction,3929.2
+2011Q1,"Electricity, Gas, Steam and Air Conditioning Supply",67951.67
+2011Q1,Manufacturing,51387.4
+2011Q1,Mining,21641.09
+2011Q1,Other Services Industries,9900.11
+2011Q1,Total Households,26943.76
+2011Q1,Total Industry and Households,247719.23
+2011Q1,Transportation and Storage,19025.33
+2011Q1,"Water supply; sewerage, waste management and remediation activities",10803.18
+2011Q2,"Agriculture, Forestry and Fishing",28727.18
+2011Q2,Construction,4002.19
+2011Q2,"Electricity, Gas, Steam and Air Conditioning Supply",65215.9
+2011Q2,Manufacturing,51596.85
+2011Q2,Mining,21855.68
+2011Q2,Other Services Industries,8620.75
+2011Q2,Total Households,23815.36
+2011Q2,Total Industry and Households,233744.88
+2011Q2,Transportation and Storage,19120.54
+2011Q2,"Water supply; sewerage, waste management and remediation activities",10790.36
+2011Q3,"Agriculture, Forestry and Fishing",27977.68
+2011Q3,Construction,3954.79
+2011Q3,"Electricity, Gas, Steam and Air Conditioning Supply",67422.04
+2011Q3,Manufacturing,51576.03
+2011Q3,Mining,22118.14
+2011Q3,Other Services Industries,8589.87
+2011Q3,Total Households,23465.47
+2011Q3,Total Industry and Households,235090.53
+2011Q3,Transportation and Storage,19256.35
+2011Q3,"Water supply; sewerage, waste management and remediation activities",10729.88
+2011Q4,"Agriculture, Forestry and Fishing",31759.45
+2011Q4,Construction,3844.57
+2011Q4,"Electricity, Gas, Steam and Air Conditioning Supply",67625.13
+2011Q4,Manufacturing,51816.13
+2011Q4,Mining,22443.68
+2011Q4,Other Services Industries,9489.19
+2011Q4,Total Households,25644.9
+2011Q4,Total Industry and Households,242639.88
+2011Q4,Transportation and Storage,19128.14
+2011Q4,"Water supply; sewerage, waste management and remediation activities",10888.62
+2012Q1,"Agriculture, Forestry and Fishing",35117.9
+2012Q1,Construction,4003.41
+2012Q1,"Electricity, Gas, Steam and Air Conditioning Supply",70430.93
+2012Q1,Manufacturing,52635.22
+2012Q1,Mining,22424.67
+2012Q1,Other Services Industries,9634.43
+2012Q1,Total Households,27061.19
+2012Q1,Total Industry and Households,251990.52
+2012Q1,Transportation and Storage,19528.2
+2012Q1,"Water supply; sewerage, waste management and remediation activities",11154.59
+2012Q2,"Agriculture, Forestry and Fishing",28263.92
+2012Q2,Construction,3954.75
+2012Q2,"Electricity, Gas, Steam and Air Conditioning Supply",65264.87
+2012Q2,Manufacturing,52167.98
+2012Q2,Mining,22176.84
+2012Q2,Other Services Industries,8643.91
+2012Q2,Total Households,24178.46
+2012Q2,Total Industry and Households,234918.38
+2012Q2,Transportation and Storage,19409.27
+2012Q2,"Water supply; sewerage, waste management and remediation activities",10858.04
+2012Q3,"Agriculture, Forestry and Fishing",28334.17
+2012Q3,Construction,3989.38
+2012Q3,"Electricity, Gas, Steam and Air Conditioning Supply",67549.54
+2012Q3,Manufacturing,52082.03
+2012Q3,Mining,22161.76
+2012Q3,Other Services Industries,8584.37
+2012Q3,Total Households,23425.57
+2012Q3,Total Industry and Households,236551.27
+2012Q3,Transportation and Storage,19515.63
+2012Q3,"Water supply; sewerage, waste management and remediation activities",10908.88
+2012Q4,"Agriculture, Forestry and Fishing",32846.46
+2012Q4,Construction,3957.93
+2012Q4,"Electricity, Gas, Steam and Air Conditioning Supply",70571.29
+2012Q4,Manufacturing,52510.64
+2012Q4,Mining,22745.6
+2012Q4,Other Services Industries,9256.43
+2012Q4,Total Households,25849.09
+2012Q4,Total Industry and Households,248215.62
+2012Q4,Transportation and Storage,19368.49
+2012Q4,"Water supply; sewerage, waste management and remediation activities",11109.64
+2013Q1,"Agriculture, Forestry and Fishing",35544.64
+2013Q1,Construction,3990.42
+2013Q1,"Electricity, Gas, Steam and Air Conditioning Supply",71085.27
+2013Q1,Manufacturing,53000.63
+2013Q1,Mining,22351.41
+2013Q1,Other Services Industries,10138.24
+2013Q1,Total Households,27223.08
+2013Q1,Total Industry and Households,254438.02
+2013Q1,Transportation and Storage,19857.69
+2013Q1,"Water supply; sewerage, waste management and remediation activities",11246.6
+2013Q2,"Agriculture, Forestry and Fishing",29351.48
+2013Q2,Construction,4016.81
+2013Q2,"Electricity, Gas, Steam and Air Conditioning Supply",67516.23
+2013Q2,Manufacturing,53027.61
+2013Q2,Mining,22209.73
+2013Q2,Other Services Industries,9027.52
+2013Q2,Total Households,25111.52
+2013Q2,Total Industry and Households,241412.49
+2013Q2,Transportation and Storage,19955.18
+2013Q2,"Water supply; sewerage, waste management and remediation activities",11196.28
+2013Q3,"Agriculture, Forestry and Fishing",28846.04
+2013Q3,Construction,4107.73
+2013Q3,"Electricity, Gas, Steam and Air Conditioning Supply",68884.06
+2013Q3,Manufacturing,53289.43
+2013Q3,Mining,22258.46
+2013Q3,Other Services Industries,8718.89
+2013Q3,Total Households,24260.47
+2013Q3,Total Industry and Households,241495.69
+2013Q3,Transportation and Storage,20054.14
+2013Q3,"Water supply; sewerage, waste management and remediation activities",11076.31
+2013Q4,"Agriculture, Forestry and Fishing",32996.4
+2013Q4,Construction,4044.31
+2013Q4,"Electricity, Gas, Steam and Air Conditioning Supply",70428.57
+2013Q4,Manufacturing,53515.97
+2013Q4,Mining,22594.68
+2013Q4,Other Services Industries,9343.91
+2013Q4,Total Households,26501.97
+2017Q4,"Electricity, Gas, Steam and Air Conditioning Supply",70501.73
+2017Q4,Manufacturing,51773.14
+2017Q4,Mining,22482.92
+2017Q4,Other Services Industries,9808.26
+2017Q4,Total Households,27316.91
+2017Q4,Total Industry and Households,253209.51
+2017Q4,Transportation and Storage,21914.76
+2017Q4,"Water supply; sewerage, waste management and remediation activities",12008.14
+2018Q1,"Agriculture, Forestry and Fishing",36927.65
+2018Q1,Construction,3989.85
+2018Q1,"Electricity, Gas, Steam and Air Conditioning Supply",71680.32
+2018Q1,Manufacturing,52932.09
+2018Q1,Mining,22550.8
+2018Q1,Other Services Industries,10203.34
+2018Q1,Total Households,28751.2
+2018Q1,Total Industry and Households,261930.18
+2018Q1,Transportation and Storage,22738.15
+2018Q1,"Water supply; sewerage, waste management and remediation activities",12156.69
+2018Q2,"Agriculture, Forestry and Fishing",30163
+2018Q2,Construction,4237.28
+2018Q2,"Electricity, Gas, Steam and Air Conditioning Supply",67551.82
+2018Q2,Manufacturing,53138.45
+2018Q2,Mining,22735.31
+2018Q2,Other Services Industries,9159.95
+2018Q2,Total Households,25586.6
+2018Q2,Total Industry and Households,247289.48
+2018Q2,Transportation and Storage,22642.28
+2018Q2,"Water supply; sewerage, waste management and remediation activities",12074.87
+2018Q3,"Agriculture, Forestry and Fishing",28996.23
+2018Q3,Construction,4202.7
+2018Q3,"Electricity, Gas, Steam and Air Conditioning Supply",71021.4
+2018Q3,Manufacturing,53070.66
+2018Q3,Mining,23011.87
+2018Q3,Other Services Industries,8812.31
+2018Q3,Total Households,25390.38
+2018Q3,Total Industry and Households,249227.16
+2018Q3,Transportation and Storage,22618.78
+2018Q3,"Water supply; sewerage, waste management and remediation activities",12102.64
+2018Q4,"Agriculture, Forestry and Fishing",33675.03
+2018Q4,Construction,4202.54
+2018Q4,"Electricity, Gas, Steam and Air Conditioning Supply",71045.82
+2018Q4,Manufacturing,53182.1
+2018Q4,Mining,23130.53
+2018Q4,Other Services Industries,10267.07
+2018Q4,Total Households,27433.41
+2018Q4,Total Industry and Households,257535.95
+2018Q4,Transportation and Storage,22402.24
+2018Q4,"Water supply; sewerage, waste management and remediation activities",12197.05
+2019Q1,"Agriculture, Forestry and Fishing",36128.11
+2019Q1,Construction,4133.17
+2019Q1,"Electricity, Gas, Steam and Air Conditioning Supply",70110.18
+2019Q1,Manufacturing,53960.07
+2019Q1,Mining,22839.73
+2019Q1,Other Services Industries,10283.69
+2019Q1,Total Households,28294.32
+2019Q1,Total Industry and Households,261042.4
+2019Q1,Transportation and Storage,23063.96
+2019Q1,"Water supply; sewerage, waste management and remediation activities",12229.16
+2019Q2,"Agriculture, Forestry and Fishing",29831.91
+2019Q2,Construction,4295.77
+2019Q2,"Electricity, Gas, Steam and Air Conditioning Supply",67067.24
+2019Q2,Manufacturing,53656.17
+2019Q2,Mining,22925.1
+2019Q2,Other Services Industries,9208.95
+2019Q2,Total Households,26208.06
+2019Q2,Total Industry and Households,248224.18
+2019Q2,Transportation and Storage,22698.81
+2019Q2,"Water supply; sewerage, waste management and remediation activities",12331.88
+2019Q3,"Agriculture, Forestry and Fishing",29629.29
+2019Q3,Construction,4221.91
+2019Q3,"Electricity, Gas, Steam and Air Conditioning Supply",69769.83
+2019Q3,Manufacturing,53440.47
+2019Q3,Mining,23205.79
+2019Q3,Other Services Industries,9153.85
+2019Q3,Total Households,25329.26
+2019Q3,Total Industry and Households,249634.97
+2019Q3,Transportation and Storage,22712.4
+2019Q3,"Water supply; sewerage, waste management and remediation activities",12172.14
+2019Q4,"Agriculture, Forestry and Fishing",34433.14
+2019Q4,Construction,4170.09
+2019Q4,"Electricity, Gas, Steam and Air Conditioning Supply",71086.56
+2019Q4,Manufacturing,53623.8
+2019Q4,Mining,23438.75
+2019Q4,Other Services Industries,10033.14
+2019Q4,Total Households,26704.21
+2019Q4,Total Industry and Households,257795.96
+2019Q4,Transportation and Storage,21953.7
+2019Q4,"Water supply; sewerage, waste management and remediation activities",12352.54
+2020Q1,"Agriculture, Forestry and Fishing",36275.8
+2020Q1,Construction,4205.29
+2020Q1,"Electricity, Gas, Steam and Air Conditioning Supply",67693.6
+2020Q1,Manufacturing,52403.82
+2020Q1,Mining,22393.52
+2020Q1,Other Services Industries,9747.92
+2020Q1,Total Households,26180.1
+2020Q1,Total Industry and Households,252396.42
+2020Q1,Transportation and Storage,21079.59
+2020Q1,"Water supply; sewerage, waste management and remediation activities",12416.94
+2020Q2,"Agriculture, Forestry and Fishing",29997.22
+2020Q2,Construction,4079.32
+2020Q2,"Electricity, Gas, Steam and Air Conditioning Supply",60793.01
+2020Q2,Manufacturing,50774.77
+2020Q2,Mining,20659.61
+2020Q2,Other Services Industries,8823.91
+2020Q2,Total Households,21747.85
+2020Q2,Total Industry and Households,225986.82
+2020Q2,Transportation and Storage,17283.34
+2020Q2,"Water supply; sewerage, waste management and remediation activities",11827.81
+2020Q3,"Agriculture, Forestry and Fishing",30052.42
+2020Q3,Construction,4226.89
+2020Q3,"Electricity, Gas, Steam and Air Conditioning Supply",68948.95
+2020Q3,Manufacturing,53726.37
+2020Q3,Mining,22337.86
+2020Q3,Other Services Industries,8551.8
+2020Q3,Total Households,23355.92
+2020Q3,Total Industry and Households,242942.24
+2020Q3,Transportation and Storage,19230.11
+2020Q3,"Water supply; sewerage, waste management and remediation activities",12511.78
+2020Q4,"Agriculture, Forestry and Fishing",34423.43
+2020Q4,Construction,4199.74
+2020Q4,"Electricity, Gas, Steam and Air Conditioning Supply",71925.6
+2020Q4,Manufacturing,54476.61
+2020Q4,Mining,23008.94
+2020Q4,Other Services Industries,9343.06
+2020Q4,Total Households,25431.18
+2020Q4,Total Industry and Households,255164.16
+2020Q4,Transportation and Storage,19638.26
+2020Q4,"Water supply; sewerage, waste management and remediation activities",12717.06
+2021Q1,"Agriculture, Forestry and Fishing",36707.32
+2021Q1,Construction,4340.49
+2021Q1,"Electricity, Gas, Steam and Air Conditioning Supply",73624.54
+2021Q1,Manufacturing,55522.1
+2021Q1,Mining,22535.91
+2021Q1,Other Services Industries,9899.62
+2021Q1,Total Households,26197.12
+2021Q1,Total Industry and Households,262078.62
+2021Q1,Transportation and Storage,20471.05
+2021Q1,"Water supply; sewerage, waste management and remediation activities",12780.46
+2021Q2,"Agriculture, Forestry and Fishing",31428.77
+2021Q2,Construction,4356.3
+2021Q2,"Electricity, Gas, Steam and Air Conditioning Supply",69071.95
+2021Q2,Manufacturing,55217.93
+2021Q2,Mining,22378.57
+2021Q2,Other Services Industries,9045.51
+2021Q2,Total Households,25092.99
+2021Q2,Total Industry and Households,249239.13
+2021Q2,Transportation and Storage,20253.58
+2021Q2,"Water supply; sewerage, waste management and remediation activities",12393.31
+2021Q3,"Agriculture, Forestry and Fishing",30078.34
+2021Q3,Construction,4461.17
+2021Q3,"Electricity, Gas, Steam and Air Conditioning Supply",70982.61
+2021Q3,Manufacturing,54460.56
+2021Q3,Mining,22702.18
+2021Q3,Other Services Industries,8885.24
+2021Q3,Total Households,24448.57
+2021Q3,Total Industry and Households,248854.29
+2021Q3,Transportation and Storage,20517.73
+2021Q3,"Water supply; sewerage, waste management and remediation activities",12317.49
+2021Q4,"Agriculture, Forestry and Fishing",33965.65
+2021Q4,Construction,4242.18
+2021Q4,"Electricity, Gas, Steam and Air Conditioning Supply",74349.93
+2021Q4,Manufacturing,54706.32
+2021Q4,Mining,23556.36
+2021Q4,Other Services Industries,9759.1
+2021Q4,Total Households,26798.82
+2021Q4,Total Industry and Households,261242.78
+2021Q4,Transportation and Storage,21090.95
+2021Q4,"Water supply; sewerage, waste management and remediation activities",12773.51
+2022Q1,"Agriculture, Forestry and Fishing",38227.47
+2022Q1,Construction,4505.62
+2022Q1,"Electricity, Gas, Steam and Air Conditioning Supply",74756.37
+2022Q1,Manufacturing,55963.53
+2022Q1,Mining,23365.87
+2022Q1,Other Services Industries,10331.48
+2022Q1,Total Households,27533.93
+2022Q1,Total Industry and Households,269678.49
+2022Q1,Transportation and Storage,22045.46
+2022Q1,"Water supply; sewerage, waste management and remediation activities",12948.65
+2022Q2,"Agriculture, Forestry and Fishing",31246.85
+2022Q2,Construction,4420.46
+2022Q2,"Electricity, Gas, Steam and Air Conditioning Supply",69974.83
+2022Q2,Manufacturing,54958.11
+2022Q2,Mining,23530.49
+2022Q2,Other Services Industries,9283.12
+2022Q2,Total Households,25144.8
+2022Q2,Total Industry and Households,252812.74
+2022Q2,Transportation and Storage,21538.93
+2022Q2,"Water supply; sewerage, waste management and remediation activities",12714.84
+2022Q3,"Agriculture, Forestry and Fishing",29621.6
+2022Q3,Construction,4582.55
+2022Q3,"Electricity, Gas, Steam and Air Conditioning Supply",72479.71
+2022Q3,Manufacturing,54475.92
+2022Q3,Mining,23609.81
+2022Q3,Other Services Industries,9070.25
+2022Q3,Total Households,24762.6
+2022Q3,Total Industry and Households,252772.97
+2022Q3,Transportation and Storage,21472.6
+2022Q3,"Water supply; sewerage, waste management and remediation activities",12697.78
+2022Q4,"Agriculture, Forestry and Fishing",33496.84
+2022Q4,Construction,4224.72
+2022Q4,"Electricity, Gas, Steam and Air Conditioning Supply",73778.09
+2022Q4,Manufacturing,54590.52
+2022Q4,Mining,23604.33
+2022Q4,Other Services Industries,9860.95
+2022Q4,Total Households,26064.94
+2022Q4,Total Industry and Households,259756.96
+2022Q4,Transportation and Storage,21390.42
+2022Q4,"Water supply; sewerage, waste management and remediation activities",12746.14
+2023Q1,"Agriculture, Forestry and Fishing",36649.18
+2023Q1,Construction,4633.34
+2023Q1,"Electricity, Gas, Steam and Air Conditioning Supply",72451.99
+2023Q1,Manufacturing,56385.33
+2023Q1,Mining,23922.78
+2023Q1,Other Services Industries,10421.81
+2023Q1,Total Households,26802.98
+2023Q1,Total Industry and Households,266487.63
+2023Q1,Transportation and Storage,22259.86
+2023Q1,"Water supply; sewerage, waste management and remediation activities",12960.11
+2023Q2,"Agriculture, Forestry and Fishing",31013.25
+2023Q2,Construction,4556.85
+2023Q2,"Electricity, Gas, Steam and Air Conditioning Supply",68598.83
+2023Q2,Manufacturing,55085.73
+2023Q2,Mining,23793.54
+2023Q2,Other Services Industries,9471.92
+2023Q2,Total Households,24796.81
+2023Q2,Total Industry and Households,252029.48
+2023Q2,Transportation and Storage,21893.42
+2023Q2,"Water supply; sewerage, waste management and remediation activities",12818.86
+2013Q4,Total Industry and Households,250423.43
+2013Q4,Transportation and Storage,19772.49
+2013Q4,"Water supply; sewerage, waste management and remediation activities",11225.11
+2014Q1,"Agriculture, Forestry and Fishing",35750.3
+2014Q1,Construction,3964.32
+2014Q1,"Electricity, Gas, Steam and Air Conditioning Supply",71477.1
+2014Q1,Manufacturing,54181.02
+2014Q1,Mining,22269.23
+2014Q1,Other Services Industries,9966.96
+2014Q1,Total Households,27132.71
+2014Q1,Total Industry and Households,256312.97
+2014Q1,Transportation and Storage,20259.38
+2014Q1,"Water supply; sewerage, waste management and remediation activities",11311.93
+2014Q2,"Agriculture, Forestry and Fishing",29116.08
+2014Q2,Construction,4062.68
+2014Q2,"Electricity, Gas, Steam and Air Conditioning Supply",66738.42
+2014Q2,Manufacturing,53737.32
+2014Q2,Mining,22378.69
+2014Q2,Other Services Industries,8810.19
+2014Q2,Total Households,24987.33
+2014Q2,Total Industry and Households,241181.73
+2014Q2,Transportation and Storage,20116.79
+2014Q2,"Water supply; sewerage, waste management and remediation activities",11234.34
+2014Q3,"Agriculture, Forestry and Fishing",28658.87
+2014Q3,Construction,4142.48
+2014Q3,"Electricity, Gas, Steam and Air Conditioning Supply",69074.73
+2014Q3,Manufacturing,53617.96
+2014Q3,Mining,22820.56
+2014Q3,Other Services Industries,8732.72
+2014Q3,Total Households,24664.39
+2014Q3,Total Industry and Households,243403.53
+2014Q3,Transportation and Storage,20350.96
+2014Q3,"Water supply; sewerage, waste management and remediation activities",11340.67
+2014Q4,"Agriculture, Forestry and Fishing",33666.08
+2014Q4,Construction,4067.92
+2014Q4,"Electricity, Gas, Steam and Air Conditioning Supply",72309.61
+2014Q4,Manufacturing,53731.77
+2014Q4,Mining,23039.44
+2014Q4,Other Services Industries,9847.46
+2014Q4,Total Households,26667.17
+2014Q4,Total Industry and Households,255232.19
+2014Q4,Transportation and Storage,20369.03
+2014Q4,"Water supply; sewerage, waste management and remediation activities",11533.68
+2015Q1,"Agriculture, Forestry and Fishing",36069.24
+2015Q1,Construction,3928.64
+2015Q1,"Electricity, Gas, Steam and Air Conditioning Supply",68183.07
+2015Q1,Manufacturing,53605.66
+2015Q1,Mining,22382.46
+2015Q1,Other Services Industries,10386.02
+2015Q1,Total Households,27620.04
+2015Q1,Total Industry and Households,254791.52
+2015Q1,Transportation and Storage,21005.11
+2015Q1,"Water supply; sewerage, waste management and remediation activities",11611.24
+2015Q2,"Agriculture, Forestry and Fishing",29950.87
+2015Q2,Construction,4146.62
+2015Q2,"Electricity, Gas, Steam and Air Conditioning Supply",65473.12
+2015Q2,Manufacturing,52872.57
+2015Q2,Mining,21646.34
+2015Q2,Other Services Industries,9174.75
+2015Q2,Total Households,25157.13
+2015Q2,Total Industry and Households,240688.03
+2015Q2,Transportation and Storage,20883.14
+2015Q2,"Water supply; sewerage, waste management and remediation activities",11383.27
+2015Q3,"Agriculture, Forestry and Fishing",29170.12
+2015Q3,Construction,4133.38
+2015Q3,"Electricity, Gas, Steam and Air Conditioning Supply",68925.11
+2015Q3,Manufacturing,52784.4
+2015Q3,Mining,22052.96
+2015Q3,Other Services Industries,9059.29
+2015Q3,Total Households,24944.7
+2015Q3,Total Industry and Households,243662.88
+2015Q3,Transportation and Storage,21119.03
+2015Q3,"Water supply; sewerage, waste management and remediation activities",11473.58
+2015Q4,"Agriculture, Forestry and Fishing",33164.12
+2015Q4,Construction,4288.21
+2015Q4,"Electricity, Gas, Steam and Air Conditioning Supply",70179.62
+2015Q4,Manufacturing,52401.52
+2015Q4,Mining,22512.44
+2015Q4,Other Services Industries,10398.06
+2015Q4,Total Households,26514.13
+2015Q4,Total Industry and Households,252052.94
+2015Q4,Transportation and Storage,20886.57
+2015Q4,"Water supply; sewerage, waste management and remediation activities",11708.01
+2016Q1,"Agriculture, Forestry and Fishing",35982.7
+2016Q1,Construction,3908.33
+2016Q1,"Electricity, Gas, Steam and Air Conditioning Supply",66414.23
+2016Q1,Manufacturing,51562.33
+2016Q1,Mining,21480.36
+2016Q1,Other Services Industries,9864.11
+2016Q1,Total Households,27466.62
+2016Q1,Total Industry and Households,249809.74
+2016Q1,Transportation and Storage,21304.38
+2016Q1,"Water supply; sewerage, waste management and remediation activities",11826.32
+2016Q2,"Agriculture, Forestry and Fishing",30205.23
+2016Q2,Construction,4144.41
+2016Q2,"Electricity, Gas, Steam and Air Conditioning Supply",63554.41
+2016Q2,Manufacturing,51366.75
+2016Q2,Mining,21457.6
+2016Q2,Other Services Industries,9146.51
+2016Q2,Total Households,25139.78
+2016Q2,Total Industry and Households,237696.14
+2016Q2,Transportation and Storage,21099.6
+2016Q2,"Water supply; sewerage, waste management and remediation activities",11581.59
+2016Q3,"Agriculture, Forestry and Fishing",29428.31
+2016Q3,Construction,4068.55
+2016Q3,"Electricity, Gas, Steam and Air Conditioning Supply",66964.48
+2016Q3,Manufacturing,50926.52
+2016Q3,Mining,21476.88
+2016Q3,Other Services Industries,8873.61
+2016Q3,Total Households,24525.01
+2016Q3,Total Industry and Households,239013.82
+2016Q3,Transportation and Storage,21197.6
+2016Q3,"Water supply; sewerage, waste management and remediation activities",11552.71
+2016Q4,"Agriculture, Forestry and Fishing",32780.05
+2016Q4,Construction,4339.78
+2016Q4,"Electricity, Gas, Steam and Air Conditioning Supply",71302.55
+2016Q4,Manufacturing,51187.04
+2016Q4,Mining,22068.81
+2016Q4,Other Services Industries,9700.44
+2016Q4,Total Households,26918.32
+2016Q4,Total Industry and Households,251268.58
+2016Q4,Transportation and Storage,21068.21
+2016Q4,"Water supply; sewerage, waste management and remediation activities",11903.28
+2017Q1,"Agriculture, Forestry and Fishing",35525.89
+2017Q1,Construction,3915.22
+2017Q1,"Electricity, Gas, Steam and Air Conditioning Supply",69288.21
+2017Q1,Manufacturing,52097.06
+2017Q1,Mining,21770.05
+2017Q1,Other Services Industries,9831.43
+2017Q1,Total Households,27751.34
+2017Q1,Total Industry and Households,254126.1
+2017Q1,Transportation and Storage,21907.69
+2017Q1,"Water supply; sewerage, waste management and remediation activities",12039.21
+2017Q2,"Agriculture, Forestry and Fishing",30448.12
+2017Q2,Construction,4085.08
+2017Q2,"Electricity, Gas, Steam and Air Conditioning Supply",66088.15
+2017Q2,Manufacturing,51730.98
+2017Q2,Mining,21856.58
+2017Q2,Other Services Industries,9298.05
+2017Q2,Total Households,25375.14
+2017Q2,Total Industry and Households,242619.4
+2017Q2,Transportation and Storage,21889.14
+2017Q2,"Water supply; sewerage, waste management and remediation activities",11848.16
+2017Q3,"Agriculture, Forestry and Fishing",29868
+2017Q3,Construction,4059.4
+2017Q3,"Electricity, Gas, Steam and Air Conditioning Supply",67456.49
+2017Q3,Manufacturing,51817.42
+2017Q3,Mining,22016.34
+2017Q3,Other Services Industries,9054.35
+2017Q3,Total Households,25052.17
+2017Q3,Total Industry and Households,243181.1
+2017Q3,Transportation and Storage,22018.38
+2017Q3,"Water supply; sewerage, waste management and remediation activities",11838.6
+2017Q4,"Agriculture, Forestry and Fishing",33128.56
+2017Q4,Construction,4275.09
