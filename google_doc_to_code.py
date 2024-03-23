@@ -92,39 +92,39 @@ def create_sql(temp_data, ghg_data, sealevel_data, outputfilepath):
         outputfile.write(f"\ncreate table Country (\n\tcountryName varchar (50) primary key,\n\t"\
                          "continentName varchar2 (50),\n\t"\
                          "iso3 varchar2(3),\n\t"\
-                         "foreign key (continentName) references Continent\n);\n")
+                         "foreign key (continentName) references Continent (continentName)\n);\n")
         outputfile.write(f"\ncreate table SeaLevel (\n\tSealevelYear integer primary key, \n\t"\
                          "continentName varchar2 (50) not null,\n\t"\
                          "unit varchar2 (10), \n\t"\
                          "GMSL decimal (10, 2),\n\t"\
-                         "foreign key (continentName) references Continent\n);\n")
+                         "foreign key (continentName) references Continent (continentName)\n);\n")
         outputfile.write(f"\ncreate table GHGEmission (\n\tghgYear varchar (6) primary key, \n\t"\
                          "unit varchar (50)\n);\n")
         outputfile.write(f"\ncreate table Temperature (\n\tyear integer, \n\t"\
                          "ghgYear varchar (6), \n\t"\
                          "unit varchar2 (50), \n\t" \
                          "primary key (year, ghgYear), \n\t"\
-                         "foreign key (ghgYear) references GHGEmission \n);\n")       
+                         "foreign key (ghgYear) references GHGEmission (ghgYear)\n);\n")       
         outputfile.write(f"\ncreate table Industry (\n\tindustryName varchar2 (70) primary key\n\t);\n")
         outputfile.write(f"\ncreate table Emitted (\n\tcontinentName varchar2 (50), \n\t" \
                          "ghgYear varchar (6), \n\t" \
                          "co2concentration decimal (10, 2), \n\t"\
                          "primary key (continentName, ghgYear), \n\t"\
-                         "foreign key (continentName) references Continent, \n\t"\
-                         "foreign key (ghgYear) references GHGEmission \n ); \n")
+                         "foreign key (continentName) references Continent (continentName), \n\t"\
+                         "foreign key (ghgYear) references GHGEmission (ghgYear) \n ); \n")
         outputfile.write(f"\ncreate table Produces (\n\tghgYear varchar (6), \n\t" \
                          "industryName varchar2 (70), \n\t"\
                          "totalco2concentration decimal (10, 2), \n\t"\
                          "primary key (ghgYear, industryName), \n\t" \
-                         "foreign key (ghgYear) references GHGEmission, \n\t"\
-                         "foreign key (industryName) references Industry\n);\n")
+                         "foreign key (ghgYear) references GHGEmission (ghgYear), \n\t"\
+                         "foreign key (industryName) references Industry (continentName)\n);\n")
         outputfile.write(f"\ncreate table TempChange (\n\tcountryName varchar2 (50), \n\t"\
                          "year integer,\n\t"\
                          "ghgYear varchar (6), \n\t"\
                          "temperature decimal (10, 2), \n\t"\
                          "primary key (countryName, year, ghgYear),\n\t"\
-                         "foreign key (countryName) references Country, \n\t" \
-                         "foreign key (year, ghgYear) references Temperature\n);\n")
+                         "foreign key (countryName) references Country (countryName), \n\t" \
+                         "foreign key (year, ghgYear) references Temperature (year, ghgYear)\n);\n")
         
         for values in continent:
             outputfile.write(f"insert into Continent values ('{values[0]}', '{values[1]}');\n")
